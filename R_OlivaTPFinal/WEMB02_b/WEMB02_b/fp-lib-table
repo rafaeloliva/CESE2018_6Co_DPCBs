@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name Mainboard_footprints)(type KiCad)(uri ${KIPRJMOD}/Mainboard_footprints.pretty)(options "")(descr Ard_Mega))
+  (lib (name TVS_footprints)(type KiCad)(uri C:/Work_Kicad/Vs_Libraries/TVS/UL_SMAJ70A/KiCAD/footprints.pretty)(options "")(descr dk_TVS))
+  (lib (name BPfootprints)(type KiCad)(uri C:/Work_Kicad/Vs_Libraries/BournsPots/KiCAD/BPfootprints.pretty)(options "")(descr ""))
+  (lib (name ICLfootprints)(type KiCad)(uri C:/Work_Kicad/Vs_Libraries/ICL7665/KiCAD/ICLfootprints.pretty)(options "")(descr ""))
+  (lib (name Cp1footprints)(type KiCad)(uri C:/Work_Kicad/Vs_Libraries/Caps/10uF_Elec_SMD_WEMB02/KiCAD/Cp1footprints.pretty)(options "")(descr ""))
+  (lib (name BC_817footprints)(type KiCad)(uri C:/Work_Kicad/Vs_Libraries/BC817/UL_BC81740/KiCAD/BC_817footprints.pretty)(options "")(descr ""))
+)
