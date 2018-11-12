@@ -1,0 +1,638 @@
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "43" de "" a "GNDS".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "39" de "" a "Net-(XA301-Pad39)".
+
+Información: Prosesando componentes "J304:/5BBA133B/5BBBB190:TerminalBlock:TerminalBlock_bornier-3_P5.08mm".
+
+Información: Prosesando componentes "JF201:/5BBA1300/5BBBBC1C:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "40" de "" a "Net-(XA301-Pad40)".
+
+Información: Prosesando componentes "JF202:/5BBA1300/5BBBBCE5:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Prosesando componentes "BAT(+)201:/5BBA1300/5BBBB687:TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "41" de "" a "Net-(XA301-Pad41)".
+
+Información: Prosesando componentes "BAT(-)201:/5BBA1300/5BBBB39E:TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "42" de "" a "Net-(C301-Pad1)".
+
+Información: Prosesando componentes "J303:/5BBA133B/5BC93036:TerminalBlock_RND:TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal".
+
+Información: Prosesando componentes "CR203:/5BBA1300/5BC017F6:TVS_footprints:SMAJ70A".
+
+Información: Prosesando componentes "TP5:/5BBA1300/5BC71AD0:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Prosesando componentes "TP1:/5BBA1300/5BC67E70:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "44" de "" a "Net-(XA301-Pad44)".
+
+Información: Prosesando componentes "TP2:/5BBA1300/5BC6C8CD:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Prosesando componentes "TP3:/5BBA1300/5BC6CCA7:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "45" de "" a "Net-(XA301-Pad45)".
+
+Información: Prosesando componentes "TP4:/5BBA1300/5BC6D0F9:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Prosesando componentes "Q201:/5BBA1300/5BBF1DB1:digikey-footprints:SOT-23-3".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "46" de "" a "Net-(XA301-Pad46)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "35" de "" a "Net-(XA301-Pad35)".
+
+Información: Prosesando componentes "R210:/5BBA1300/5BCE5B1B:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "32" de "" a "Net-(XA301-Pad32)".
+
+Información: Prosesando componentes "R211:/5BBA1300/5BD0EF21:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "R212:/5BBA1300/5BD00FBF:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "33" de "" a "Net-(XA301-Pad33)".
+
+Información: Prosesando componentes "R217:/5BBA1300/5BDDDF98:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "R301:/5BBA133B/5BC00178:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "34" de "" a "Net-(XA301-Pad34)".
+
+Información: Prosesando componentes "R302:/5BBA133B/5BCA1714:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "R303:/5BBA133B/5BC240F2:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "86" de "" a "Net-(XA301-Pad86)".
+
+Información: Prosesando componentes "R304:/5BBA133B/5BC50AE3:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "R305:/5BBA133B/5BC50C12:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "36" de "" a "Net-(XA301-Pad36)".
+
+Información: Prosesando componentes "R206:/5BBA1300/5BC276E6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "37" de "" a "Net-(XA301-Pad37)".
+
+Información: Prosesando componentes "CR201:/5BBA1300/5BBBAA3E:TVS_footprints:SMAJ70A".
+
+Información: Prosesando componentes "CR202:/5BBA1300/5BC052B1:TVS_footprints:SMAJ70A".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "38" de "" a "Net-(XA301-Pad38)".
+
+Información: Prosesando componentes "CR204:/5BBA1300/5BD26E4F:TVS_footprints:SMAJ70A".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "65" de "" a "/DataComm/RX2_ARD".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "78" de "" a "Net-(XA301-Pad78)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "59" de "" a "Net-(XA301-Pad59)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "60" de "" a "Net-(C301-Pad1)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "77" de "" a "Net-(XA301-Pad77)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "61" de "" a "Net-(XA301-Pad61)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "76" de "" a "Net-(XA301-Pad76)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "62" de "" a "Net-(XA301-Pad62)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "63" de "" a "/DataComm/RX1_DISP".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "64" de "" a "/DataComm/TX1_DISP".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "75" de "" a "Net-(XA301-Pad75)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "58" de "" a "Net-(XA301-Pad58)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "66" de "" a "/DataComm/TX2_ARD".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "74" de "" a "Net-(XA301-Pad74)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "67" de "" a "Net-(XA301-Pad67)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "68" de "" a "Net-(XA301-Pad68)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "73" de "" a "Net-(XA301-Pad73)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "69" de "" a "Net-(XA301-Pad69)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "72" de "" a "Net-(XA301-Pad72)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "70" de "" a "Net-(XA301-Pad70)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "71" de "" a "Net-(XA301-Pad71)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "52" de "" a "Net-(XA301-Pad52)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "47" de "" a "Net-(XA301-Pad47)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "85" de "" a "Net-(XA301-Pad85)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "48" de "" a "Net-(XA301-Pad48)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "49" de "" a "Net-(XA301-Pad49)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "84" de "" a "Net-(XA301-Pad84)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "50" de "" a "Net-(XA301-Pad50)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "83" de "" a "GNDS".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "51" de "" a "Net-(XA301-Pad51)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "82" de "" a "Net-(XA301-Pad82)".
+
+Información: Prosesando componentes "R306:/5BBA133B/5BC820E6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "53" de "" a "Net-(XA301-Pad53)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "81" de "" a "Net-(XA301-Pad81)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "54" de "" a "Net-(XA301-Pad54)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "80" de "" a "Net-(XA301-Pad80)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "55" de "" a "Net-(XA301-Pad55)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "56" de "" a "Net-(XA301-Pad56)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "79" de "" a "Net-(XA301-Pad79)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "57" de "" a "Net-(XA301-Pad57)".
+
+Información: Prosesando componentes "XA301:/5BBA133B/5BBA1F40:w_conn_misc:arduino_mega_header".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "13" de "" a "/DataComm/DIR_485_ARD".
+
+Información: Prosesando componentes "C303:/5BBA133B/5BC19A49:Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Información: Prosesando componentes "C204:/5BBA1300/5BBEC381:Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "10" de "" a "Net-(XA301-Pad10)".
+
+Información: Prosesando componentes "FR201:/5BBA1300/5BBE61DC:Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm".
+
+Información: Prosesando componentes "FR202:/5BBA1300/5BBA98B9:Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "11" de "" a "Net-(XA301-Pad11)".
+
+Información: Prosesando componentes "FR302:/5BBA133B/5BC9D792:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Prosesando componentes "FR301:/5BBA133B/5BC03DB4:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "12" de "" a "Net-(XA301-Pad12)".
+
+Información: Prosesando componentes "J301:/5BBA133B/5BBFD055:Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "9" de "" a "Net-(XA301-Pad9)".
+
+Información: Prosesando componentes "R308:/5BBA133B/5BDBFFA6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "14" de "" a "Net-(R302-Pad1)".
+
+Información: Prosesando componentes "JP201:/5BBA1300/5BBEAD9D:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Prosesando componentes "JP202:/5BBA1300/5BBEBDC4:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "15" de "" a "Net-(XA301-Pad15)".
+
+Información: Prosesando componentes "JP203:/5BBA1300/5BBECBCE:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Prosesando componentes "JP302:/5BBA133B/5BC072D9:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "16" de "" a "Net-(XA301-Pad16)".
+
+Información: Prosesando componentes "JP205:/5BBA1300/5BC76930:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "5" de "" a "Net-(C301-Pad1)".
+
+Información: Prosesando componentes "Q202:/5BBA1300/5BC27500:BC_817footprints:BC817-40".
+
+Información: Prosesando componentes "Q203:/5BBA1300/5BC80474:BC_817footprints:BC817-40".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "2" de "" a "Net-(XA301-Pad2)".
+
+Información: Prosesando componentes "POT201:/5BBA1300/5BBBC95C:BPfootprints:PV36W103C01B00".
+
+Información: Prosesando componentes "POT202:/5BBA1300/5BBBCA82:BPfootprints:PV36W103C01B00".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "3" de "" a "Net-(XA301-Pad3)".
+
+Información: Prosesando componentes "POT203:/5BBA1300/5BBBFDE1:BPfootprints:PV36W103C01B00".
+
+Información: Prosesando componentes "POT204:/5BBA1300/5BBBFDE7:BPfootprints:PV36W103C01B00".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "4" de "" a "Net-(XA301-Pad4)".
+
+Información: Prosesando componentes "POT205:/5BBA1300/5BCC5F6A:BPfootprints:PV36W103C01B00".
+
+Información: Prosesando componentes "JP305:/5BBA133B/5BC8886D:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Prosesando componentes "C201:/5BBA1300/5BC0BEC9:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "6" de "" a "GNDS".
+
+Información: Prosesando componentes "C203:/5BBA1300/5BBEBED8:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "7" de "" a "GNDS".
+
+Información: Prosesando componentes "C304:/5BBA133B/5BC48827:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "C301:/5BBA133B/5BBFCE2E:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "8" de "" a "Net-(XA301-Pad8)".
+
+Información: Prosesando componentes "C302:/5BBA133B/5BC19A42:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "C205:/5BBA1300/5BBFC964:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "26" de "" a "Net-(XA301-Pad26)".
+
+Información: Prosesando componentes "LED203:/5BBA1300/5BD00FB9:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "22" de "" a "Net-(XA301-Pad22)".
+
+Información: Prosesando componentes "LED201:/5BBA1300/5BCE57D6:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "U202:/5BBA1300/5BBA94CC:Mainboard_footprints:Global_feeder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "23" de "" a "Net-(XA301-Pad23)".
+
+Información: Prosesando componentes "JP301:/5BBA133B/5BC060B2:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Prosesando componentes "D301:/5BBA133B/5BC72B31:Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "24" de "" a "Net-(XA301-Pad24)".
+
+Información: Prosesando componentes "Q301:/5BBA133B/5BBFECC7:Package_TO_SOT_SMD:TO-252-3_TabPin4".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "25" de "" a "GNDS".
+
+Información: Prosesando componentes "U204:/5BBA1300/5BBBBB11:PowerMod:POWER_SDM1b".
+
+Información: Prosesando componentes "R204:/5BBA1300/5BBF21F9:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "U302:/5BBA133B/5BBBAF8F:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+
+Información: Prosesando componentes "R209:/5BBA1300/5BBBFDFE:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "R208:/5BBA1300/5BC8047A:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "27" de "" a "Net-(XA301-Pad27)".
+
+Información: Prosesando componentes "R207:/5BBA1300/5BC9F0D7:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "R205:/5BBA1300/5BC27850:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "28" de "" a "Net-(XA301-Pad28)".
+
+Información: Prosesando componentes "R307:/5BBA133B/5BDC9A9B:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "R203:/5BBA1300/5BBF2253:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "30" de "" a "Net-(XA301-Pad30)".
+
+Información: Prosesando componentes "R202:/5BBA1300/5BBF1FDA:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "R201:/5BBA1300/5BBBDFF4:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "31" de "" a "Net-(XA301-Pad31)".
+
+Información: Prosesando componentes "LED202:/5BBA1300/5BD0EF1A:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Prosesando componentes "J302:/5BBA133B/5BCA353F:Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical".
+
+Información: Prosesando componentes "JP204:/5BBA1300/5BC4F74C:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "19" de "" a "Net-(XA301-Pad19)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "18" de "" a "Net-(XA301-Pad18)".
+
+Información: Prosesando componentes "U203:/5BBA1300/5BBEBB80:Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Información: Prosesando componentes "U301:/5BBA133B/5BC19A3B:Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "20" de "" a "Net-(XA301-Pad20)".
+
+Información: Prosesando componentes "JP304:/5BBA133B/5BC0733F:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Prosesando componentes "JP303:/5BBA133B/5BC0730B:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Prosesando componentes "C202:/5BBA1300/5BC17CFA:Cp1footprints:EEE-1EA100WR".
+
+Información: Prosesando componentes "U201:/5BBA1300/5BBBC796:ICLfootprints:ICL7665ACSA&plus_".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "17" de "" a "Net-(XA301-Pad17)".
+
+Información: Cambiando del símbolo "XA301:/5BBA133B/5BBA1F40" el nombre de la red del pin "21" de "" a "Net-(XA301-Pad21)".
+
+Conectar del símbolo XA301 el pin 73 a la red Net-(XA301-Pad73).
+
+Conectar del símbolo XA301 el pin 85 a la red Net-(XA301-Pad85).
+
+Añadir red Net-(XA301-Pad73).
+
+Añadir red Net-(XA301-Pad86).
+
+Añadir red Net-(XA301-Pad74).
+
+Conectar del símbolo XA301 el pin 74 a la red Net-(XA301-Pad74).
+
+Añadir red Net-(XA301-Pad85).
+
+Añadir red Net-(XA301-Pad75).
+
+Conectar del símbolo XA301 el pin 72 a la red Net-(XA301-Pad72).
+
+Añadir red Net-(XA301-Pad72).
+
+Conectar del símbolo XA301 el pin 75 a la red Net-(XA301-Pad75).
+
+Conectar del símbolo XA301 el pin 86 a la red Net-(XA301-Pad86).
+
+Conectar del símbolo XA301 el pin 82 a la red Net-(XA301-Pad82).
+
+Conectar del símbolo XA301 el pin 80 a la red Net-(XA301-Pad80).
+
+Añadir red Net-(XA301-Pad80).
+
+Añadir red Net-(XA301-Pad81).
+
+Conectar del símbolo XA301 el pin 79 a la red Net-(XA301-Pad79).
+
+Conectar del símbolo XA301 el pin 81 a la red Net-(XA301-Pad81).
+
+Añadir red Net-(XA301-Pad79).
+
+Añadir red Net-(XA301-Pad82).
+
+Conectar del símbolo XA301 el pin 78 a la red Net-(XA301-Pad78).
+
+Conectar del símbolo XA301 el pin 84 a la red Net-(XA301-Pad84).
+
+Añadir red Net-(XA301-Pad78).
+
+Conectar del símbolo XA301 el pin 77 a la red Net-(XA301-Pad77).
+
+Conectar del símbolo XA301 el pin 83 a la red GNDS.
+
+Añadir red Net-(XA301-Pad77).
+
+Conectar del símbolo XA301 el pin 58 a la red Net-(XA301-Pad58).
+
+Conectar del símbolo XA301 el pin 76 a la red Net-(XA301-Pad76).
+
+Añadir red Net-(XA301-Pad76).
+
+Añadir red Net-(XA301-Pad84).
+
+Añadir red Net-(XA301-Pad28).
+
+Añadir red Net-(XA301-Pad20).
+
+Conectar del símbolo XA301 el pin 20 a la red Net-(XA301-Pad20).
+
+Añadir red Net-(XA301-Pad21).
+
+Conectar del símbolo XA301 el pin 21 a la red Net-(XA301-Pad21).
+
+Añadir red Net-(XA301-Pad22).
+
+Conectar del símbolo XA301 el pin 22 a la red Net-(XA301-Pad22).
+
+Añadir red Net-(XA301-Pad23).
+
+Conectar del símbolo XA301 el pin 23 a la red Net-(XA301-Pad23).
+
+Añadir red Net-(XA301-Pad24).
+
+Conectar del símbolo XA301 el pin 24 a la red Net-(XA301-Pad24).
+
+Conectar del símbolo XA301 el pin 25 a la red GNDS.
+
+Añadir red Net-(XA301-Pad26).
+
+Conectar del símbolo XA301 el pin 26 a la red Net-(XA301-Pad26).
+
+Añadir red Net-(XA301-Pad27).
+
+Conectar del símbolo XA301 el pin 27 a la red Net-(XA301-Pad27).
+
+Conectar del símbolo XA301 el pin 19 a la red Net-(XA301-Pad19).
+
+Conectar del símbolo XA301 el pin 28 a la red Net-(XA301-Pad28).
+
+Añadir red Net-(XA301-Pad30).
+
+Conectar del símbolo XA301 el pin 30 a la red Net-(XA301-Pad30).
+
+Añadir red Net-(XA301-Pad31).
+
+Conectar del símbolo XA301 el pin 31 a la red Net-(XA301-Pad31).
+
+Añadir red Net-(XA301-Pad32).
+
+Conectar del símbolo XA301 el pin 32 a la red Net-(XA301-Pad32).
+
+Añadir red Net-(XA301-Pad33).
+
+Conectar del símbolo XA301 el pin 33 a la red Net-(XA301-Pad33).
+
+Añadir red Net-(XA301-Pad34).
+
+Conectar del símbolo XA301 el pin 34 a la red Net-(XA301-Pad34).
+
+Añadir red Net-(XA301-Pad35).
+
+Conectar del símbolo XA301 el pin 35 a la red Net-(XA301-Pad35).
+
+Añadir red Net-(XA301-Pad36).
+
+Añadir red Net-(XA301-Pad11).
+
+Añadir red Net-(XA301-Pad2).
+
+Conectar del símbolo XA301 el pin 2 a la red Net-(XA301-Pad2).
+
+Añadir red Net-(XA301-Pad3).
+
+Conectar del símbolo XA301 el pin 3 a la red Net-(XA301-Pad3).
+
+Añadir red Net-(XA301-Pad4).
+
+Conectar del símbolo XA301 el pin 4 a la red Net-(XA301-Pad4).
+
+Conectar del símbolo XA301 el pin 5 a la red Net-(C301-Pad1).
+
+Conectar del símbolo XA301 el pin 6 a la red GNDS.
+
+Conectar del símbolo XA301 el pin 7 a la red GNDS.
+
+Añadir red Net-(XA301-Pad8).
+
+Conectar del símbolo XA301 el pin 8 a la red Net-(XA301-Pad8).
+
+Añadir red Net-(XA301-Pad9).
+
+Conectar del símbolo XA301 el pin 9 a la red Net-(XA301-Pad9).
+
+Añadir red Net-(XA301-Pad10).
+
+Conectar del símbolo XA301 el pin 10 a la red Net-(XA301-Pad10).
+
+Conectar del símbolo XA301 el pin 36 a la red Net-(XA301-Pad36).
+
+Conectar del símbolo XA301 el pin 11 a la red Net-(XA301-Pad11).
+
+Añadir red Net-(XA301-Pad12).
+
+Conectar del símbolo XA301 el pin 12 a la red Net-(XA301-Pad12).
+
+Conectar del símbolo XA301 el pin 13 a la red /DataComm/DIR_485_ARD.
+
+Conectar del símbolo XA301 el pin 14 a la red Net-(R302-Pad1).
+
+Añadir red Net-(XA301-Pad15).
+
+Conectar del símbolo XA301 el pin 15 a la red Net-(XA301-Pad15).
+
+Añadir red Net-(XA301-Pad16).
+
+Conectar del símbolo XA301 el pin 16 a la red Net-(XA301-Pad16).
+
+Añadir red Net-(XA301-Pad17).
+
+Conectar del símbolo XA301 el pin 17 a la red Net-(XA301-Pad17).
+
+Añadir red Net-(XA301-Pad18).
+
+Conectar del símbolo XA301 el pin 18 a la red Net-(XA301-Pad18).
+
+Añadir red Net-(XA301-Pad19).
+
+Añadir red Net-(XA301-Pad62).
+
+Conectar del símbolo XA301 el pin 53 a la red Net-(XA301-Pad53).
+
+Añadir red Net-(XA301-Pad54).
+
+Conectar del símbolo XA301 el pin 54 a la red Net-(XA301-Pad54).
+
+Añadir red Net-(XA301-Pad55).
+
+Conectar del símbolo XA301 el pin 55 a la red Net-(XA301-Pad55).
+
+Añadir red Net-(XA301-Pad56).
+
+Conectar del símbolo XA301 el pin 56 a la red Net-(XA301-Pad56).
+
+Añadir red Net-(XA301-Pad57).
+
+Conectar del símbolo XA301 el pin 57 a la red Net-(XA301-Pad57).
+
+Añadir red Net-(XA301-Pad58).
+
+Añadir red Net-(XA301-Pad59).
+
+Conectar del símbolo XA301 el pin 59 a la red Net-(XA301-Pad59).
+
+Conectar del símbolo XA301 el pin 60 a la red Net-(C301-Pad1).
+
+Añadir red Net-(XA301-Pad61).
+
+Conectar del símbolo XA301 el pin 61 a la red Net-(XA301-Pad61).
+
+Añadir red Net-(XA301-Pad53).
+
+Conectar del símbolo XA301 el pin 62 a la red Net-(XA301-Pad62).
+
+Conectar del símbolo XA301 el pin 63 a la red /DataComm/RX1_DISP.
+
+Conectar del símbolo XA301 el pin 64 a la red /DataComm/TX1_DISP.
+
+Conectar del símbolo XA301 el pin 65 a la red /DataComm/RX2_ARD.
+
+Conectar del símbolo XA301 el pin 66 a la red /DataComm/TX2_ARD.
+
+Añadir red Net-(XA301-Pad67).
+
+Conectar del símbolo XA301 el pin 67 a la red Net-(XA301-Pad67).
+
+Añadir red Net-(XA301-Pad68).
+
+Conectar del símbolo XA301 el pin 68 a la red Net-(XA301-Pad68).
+
+Añadir red Net-(XA301-Pad69).
+
+Conectar del símbolo XA301 el pin 69 a la red Net-(XA301-Pad69).
+
+Añadir red Net-(XA301-Pad70).
+
+Conectar del símbolo XA301 el pin 70 a la red Net-(XA301-Pad70).
+
+Añadir red Net-(XA301-Pad71).
+
+Conectar del símbolo XA301 el pin 45 a la red Net-(XA301-Pad45).
+
+Añadir red Net-(XA301-Pad37).
+
+Conectar del símbolo XA301 el pin 37 a la red Net-(XA301-Pad37).
+
+Añadir red Net-(XA301-Pad38).
+
+Conectar del símbolo XA301 el pin 38 a la red Net-(XA301-Pad38).
+
+Añadir red Net-(XA301-Pad39).
+
+Conectar del símbolo XA301 el pin 39 a la red Net-(XA301-Pad39).
+
+Añadir red Net-(XA301-Pad40).
+
+Conectar del símbolo XA301 el pin 40 a la red Net-(XA301-Pad40).
+
+Añadir red Net-(XA301-Pad41).
+
+Conectar del símbolo XA301 el pin 41 a la red Net-(XA301-Pad41).
+
+Conectar del símbolo XA301 el pin 42 a la red Net-(C301-Pad1).
+
+Conectar del símbolo XA301 el pin 43 a la red GNDS.
+
+Añadir red Net-(XA301-Pad44).
+
+Conectar del símbolo XA301 el pin 44 a la red Net-(XA301-Pad44).
+
+Añadir red Net-(XA301-Pad45).
+
+Conectar del símbolo XA301 el pin 71 a la red Net-(XA301-Pad71).
+
+Añadir red Net-(XA301-Pad46).
+
+Conectar del símbolo XA301 el pin 46 a la red Net-(XA301-Pad46).
+
+Añadir red Net-(XA301-Pad47).
+
+Conectar del símbolo XA301 el pin 47 a la red Net-(XA301-Pad47).
+
+Añadir red Net-(XA301-Pad48).
+
+Conectar del símbolo XA301 el pin 48 a la red Net-(XA301-Pad48).
+
+Añadir red Net-(XA301-Pad49).
+
+Conectar del símbolo XA301 el pin 49 a la red Net-(XA301-Pad49).
+
+Añadir red Net-(XA301-Pad50).
+
+Conectar del símbolo XA301 el pin 50 a la red Net-(XA301-Pad50).
+
+Añadir red Net-(XA301-Pad51).
+
+Conectar del símbolo XA301 el pin 51 a la red Net-(XA301-Pad51).
+
+Añadir red Net-(XA301-Pad52).
+
+Conectar del símbolo XA301 el pin 52 a la red Net-(XA301-Pad52).
+
