@@ -1,0 +1,324 @@
+Información: Comprobando la huella del símbolo de la red "R305:/5BBA133B/5BC50C12:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "POT201:/5BBA1300/5BBBC95C:BPfootprints:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "LED203:/5BBA1300/5BD00FB9:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R302:/5BBA133B/5BCA1714:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "LED202:/5BBA1300/5BD0EF1A:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "LED201:/5BBA1300/5BCE57D6:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R303:/5BBA133B/5BC240F2:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "JP305:/5BBA133B/5BC8886D:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP304:/5BBA133B/5BC0733F:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "R304:/5BBA133B/5BC50AE3:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "JP303:/5BBA133B/5BC0730B:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP302:/5BBA133B/5BC072D9:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "R301:/5BBA133B/5BC00178:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "JP301:/5BBA133B/5BC060B2:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP205:/5BBA1300/5BC76930:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "R306:/5BBA133B/5BC820E6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "JP204:/5BBA1300/5BC4F74C:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP203:/5BBA1300/5BBECBCE:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "R307:/5BBA133B/5BDC9A9B:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "JP201:/5BBA1300/5BBEAD9D:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "R308:/5BBA133B/5BDBFFA6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "JF202:/5BBA1300/5BBBBCE5:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "JF201:/5BBA1300/5BBBBC1C:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "TP1:/5BBA1300/5BC67E70:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Comprobando la huella del símbolo de la red "R211:/5BBA1300/5BD0EF21:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R207:/5BBA1300/5BC9F0D7:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R206:/5BBA1300/5BC276E6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R208:/5BBA1300/5BC8047A:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R205:/5BBA1300/5BC27850:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R204:/5BBA1300/5BBF21F9:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R209:/5BBA1300/5BBBFDFE:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R203:/5BBA1300/5BBF2253:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R202:/5BBA1300/5BBF1FDA:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R210:/5BBA1300/5BCE5B1B:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R201:/5BBA1300/5BBBDFF4:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "Q301:/5BBA133B/5BBFECC7:Package_TO_SOT_SMD:TO-252-3_TabPin4".
+
+Información: Comprobando la huella del símbolo de la red "JP202:/5BBA1300/5BBEBDC4:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "Q203:/5BBA1300/5BC80474:BC_817footprints:BC817-40".
+
+Información: Comprobando la huella del símbolo de la red "Q202:/5BBA1300/5BC27500:BC_817footprints:BC817-40".
+
+Información: Comprobando la huella del símbolo de la red "R212:/5BBA1300/5BD00FBF:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "Q201:/5BBA1300/5BBF1DB1:digikey-footprints:SOT-23-3".
+
+Información: Comprobando la huella del símbolo de la red "POT205:/5BBA1300/5BCC5F6A:BPfootprints:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "R217:/5BBA1300/5BDDDF98:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "POT204:/5BBA1300/5BBBFDE7:BPfootprints:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "POT203:/5BBA1300/5BBBFDE1:BPfootprints:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "BAT(+)201:/5BBA1300/5BBBB687:TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed".
+
+Información: Comprobando la huella del símbolo de la red "POT202:/5BBA1300/5BBBCA82:BPfootprints:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "U202:/5BBA1300/5BBA94CC:Mainboard_footprints:Global_feeder".
+
+Información: Comprobando la huella del símbolo de la red "FR201:/5BBA1300/5BBE61DC:Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm".
+
+Información: Comprobando la huella del símbolo de la red "C203:/5BBA1300/5BBEBED8:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "D301:/5BBA133B/5BC72B31:Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering".
+
+Información: Comprobando la huella del símbolo de la red "CR204:/5BBA1300/5BD26E4F:TVS_footprints:SMAJ70A".
+
+Información: Comprobando la huella del símbolo de la red "C204:/5BBA1300/5BBEC381:Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "U201:/5BBA1300/5BBBC796:ICLfootprints:ICL7665ACSA&plus_".
+
+Información: Comprobando la huella del símbolo de la red "CR203:/5BBA1300/5BC017F6:TVS_footprints:SMAJ70A".
+
+Información: Comprobando la huella del símbolo de la red "U301:/5BBA133B/5BC19A3B:Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Información: Comprobando la huella del símbolo de la red "CR202:/5BBA1300/5BC052B1:TVS_footprints:SMAJ70A".
+
+Información: Comprobando la huella del símbolo de la red "TP5:/5BBA1300/5BC71AD0:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Comprobando la huella del símbolo de la red "CR201:/5BBA1300/5BBBAA3E:TVS_footprints:SMAJ70A".
+
+Información: Comprobando la huella del símbolo de la red "C205:/5BBA1300/5BBFC964:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C304:/5BBA133B/5BC48827:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "U203:/5BBA1300/5BBEBB80:Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Información: Comprobando la huella del símbolo de la red "C303:/5BBA133B/5BC19A49:Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C301:/5BBA133B/5BBFCE2E:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C302:/5BBA133B/5BC19A42:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "U204:/5BBA1300/5BBBBB11:PowerMod:POWER_SDM1b".
+
+Información: Comprobando la huella del símbolo de la red "U302:/5BBA133B/5BBBAF8F:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+
+Información: Comprobando la huella del símbolo de la red "J304:/5BBA133B/5BBBB190:TerminalBlock:TerminalBlock_bornier-3_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "J303:/5BBA133B/5BC93036:TerminalBlock_RND:TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal".
+
+Información: Comprobando la huella del símbolo de la red "TP2:/5BBA1300/5BC6C8CD:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Comprobando la huella del símbolo de la red "J302:/5BBA133B/5BCA353F:Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "BAT(-)201:/5BBA1300/5BBBB39E:TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed".
+
+Información: Comprobando la huella del símbolo de la red "XA301:/5BBA133B/5BBA1F40:w_conn_misc:arduino_mega_header".
+
+Información: Comprobando la huella del símbolo de la red "C201:/5BBA1300/5BC0BEC9:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "J301:/5BBA133B/5BBFD055:Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "TP3:/5BBA1300/5BC6CCA7:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Comprobando la huella del símbolo de la red "FR302:/5BBA133B/5BC9D792:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Comprobando la huella del símbolo de la red "C202:/5BBA1300/5BC17CFA:Cp1footprints:EEE-1EA100WR".
+
+Información: Comprobando la huella del símbolo de la red "FR301:/5BBA133B/5BC03DB4:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Comprobando la huella del símbolo de la red "TP4:/5BBA1300/5BC6D0F9:TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Información: Comprobando la huella del símbolo de la red "FR202:/5BBA1300/5BBA98B9:Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm".
+
+Añadiendo del nuevo símbolo "R210:/5BBA1300/5BCE5B1B" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R208:/5BBA1300/5BC8047A" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "U302:/5BBA133B/5BBBAF8F" la huella "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+
+Añadiendo del nuevo símbolo "U301:/5BBA133B/5BC19A3B" la huella "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Añadiendo del nuevo símbolo "U204:/5BBA1300/5BBBBB11" la huella "PowerMod:POWER_SDM1b".
+
+Añadiendo del nuevo símbolo "R211:/5BBA1300/5BD0EF21" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "XA301:/5BBA133B/5BBA1F40" la huella "w_conn_misc:arduino_mega_header".
+
+Añadiendo del nuevo símbolo "R207:/5BBA1300/5BC9F0D7" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R209:/5BBA1300/5BBBFDFE" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "TP4:/5BBA1300/5BC6D0F9" la huella "TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Añadiendo del nuevo símbolo "TP1:/5BBA1300/5BC67E70" la huella "TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Añadiendo del nuevo símbolo "R308:/5BBA133B/5BDBFFA6" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R307:/5BBA133B/5BDC9A9B" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "POT202:/5BBA1300/5BBBCA82" la huella "BPfootprints:PV36W103C01B00".
+
+Añadiendo del nuevo símbolo "TP2:/5BBA1300/5BC6C8CD" la huella "TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Añadiendo del nuevo símbolo "R306:/5BBA133B/5BC820E6" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "TP3:/5BBA1300/5BC6CCA7" la huella "TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Añadiendo del nuevo símbolo "R305:/5BBA133B/5BC50C12" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R304:/5BBA133B/5BC50AE3" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R212:/5BBA1300/5BD00FBF" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R303:/5BBA133B/5BC240F2" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "TP5:/5BBA1300/5BC71AD0" la huella "TestPoint:TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded".
+
+Añadiendo del nuevo símbolo "R302:/5BBA133B/5BCA1714" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "U201:/5BBA1300/5BBBC796" la huella "ICLfootprints:ICL7665ACSA&plus_".
+
+Añadiendo del nuevo símbolo "R301:/5BBA133B/5BC00178" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "U202:/5BBA1300/5BBA94CC" la huella "Mainboard_footprints:Global_feeder".
+
+Añadiendo del nuevo símbolo "R217:/5BBA1300/5BDDDF98" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "U203:/5BBA1300/5BBEBB80" la huella "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Añadiendo del nuevo símbolo "CR202:/5BBA1300/5BC052B1" la huella "TVS_footprints:SMAJ70A".
+
+Añadiendo del nuevo símbolo "JF202:/5BBA1300/5BBBBCE5" la huella "TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Añadiendo del nuevo símbolo "JF201:/5BBA1300/5BBBBC1C" la huella "TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Añadiendo del nuevo símbolo "J304:/5BBA133B/5BBBB190" la huella "TerminalBlock:TerminalBlock_bornier-3_P5.08mm".
+
+Añadiendo del nuevo símbolo "J303:/5BBA133B/5BC93036" la huella "TerminalBlock_RND:TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal".
+
+Añadiendo del nuevo símbolo "J302:/5BBA133B/5BCA353F" la huella "Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "J301:/5BBA133B/5BBFD055" la huella "Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "FR302:/5BBA133B/5BC9D792" la huella "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Añadiendo del nuevo símbolo "FR301:/5BBA133B/5BC03DB4" la huella "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Añadiendo del nuevo símbolo "FR202:/5BBA1300/5BBA98B9" la huella "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm".
+
+Añadiendo del nuevo símbolo "FR201:/5BBA1300/5BBE61DC" la huella "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm".
+
+Añadiendo del nuevo símbolo "D301:/5BBA133B/5BC72B31" la huella "Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering".
+
+Añadiendo del nuevo símbolo "CR204:/5BBA1300/5BD26E4F" la huella "TVS_footprints:SMAJ70A".
+
+Añadiendo del nuevo símbolo "CR203:/5BBA1300/5BC017F6" la huella "TVS_footprints:SMAJ70A".
+
+Añadiendo del nuevo símbolo "JP201:/5BBA1300/5BBEAD9D" la huella "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "CR201:/5BBA1300/5BBBAA3E" la huella "TVS_footprints:SMAJ70A".
+
+Añadiendo del nuevo símbolo "C304:/5BBA133B/5BC48827" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "C303:/5BBA133B/5BC19A49" la huella "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Añadiendo del nuevo símbolo "C302:/5BBA133B/5BC19A42" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "C301:/5BBA133B/5BBFCE2E" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "C205:/5BBA1300/5BBFC964" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "C204:/5BBA1300/5BBEC381" la huella "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Añadiendo del nuevo símbolo "C203:/5BBA1300/5BBEBED8" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "C202:/5BBA1300/5BC17CFA" la huella "Cp1footprints:EEE-1EA100WR".
+
+Añadiendo del nuevo símbolo "C201:/5BBA1300/5BC0BEC9" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "BAT(-)201:/5BBA1300/5BBBB39E" la huella "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed".
+
+Añadiendo del nuevo símbolo "BAT(+)201:/5BBA1300/5BBBB687" la huella "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed".
+
+Añadiendo del nuevo símbolo "POT201:/5BBA1300/5BBBC95C" la huella "BPfootprints:PV36W103C01B00".
+
+Añadiendo del nuevo símbolo "R205:/5BBA1300/5BC27850" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R204:/5BBA1300/5BBF21F9" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R203:/5BBA1300/5BBF2253" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R202:/5BBA1300/5BBF1FDA" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R201:/5BBA1300/5BBBDFF4" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "Q301:/5BBA133B/5BBFECC7" la huella "Package_TO_SOT_SMD:TO-252-3_TabPin4".
+
+Añadiendo del nuevo símbolo "Q203:/5BBA1300/5BC80474" la huella "BC_817footprints:BC817-40".
+
+Añadiendo del nuevo símbolo "Q202:/5BBA1300/5BC27500" la huella "BC_817footprints:BC817-40".
+
+Añadiendo del nuevo símbolo "Q201:/5BBA1300/5BBF1DB1" la huella "digikey-footprints:SOT-23-3".
+
+Añadiendo del nuevo símbolo "POT205:/5BBA1300/5BCC5F6A" la huella "BPfootprints:PV36W103C01B00".
+
+Añadiendo del nuevo símbolo "POT204:/5BBA1300/5BBBFDE7" la huella "BPfootprints:PV36W103C01B00".
+
+Añadiendo del nuevo símbolo "POT203:/5BBA1300/5BBBFDE1" la huella "BPfootprints:PV36W103C01B00".
+
+Añadiendo del nuevo símbolo "R206:/5BBA1300/5BC276E6" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "LED203:/5BBA1300/5BD00FB9" la huella "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "LED202:/5BBA1300/5BD0EF1A" la huella "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "LED201:/5BBA1300/5BCE57D6" la huella "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "JP305:/5BBA133B/5BC8886D" la huella "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP304:/5BBA133B/5BC0733F" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP303:/5BBA133B/5BC0730B" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP302:/5BBA133B/5BC072D9" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP301:/5BBA133B/5BC060B2" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP205:/5BBA1300/5BC76930" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP204:/5BBA1300/5BC4F74C" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP203:/5BBA1300/5BBECBCE" la huella "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP202:/5BBA1300/5BBEBDC4" la huella "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
