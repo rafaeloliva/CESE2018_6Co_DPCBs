@@ -1,0 +1,164 @@
+** Drc report for C:\CESE2018\Materias\DisenioPCBs\TrabajoFinal\WEMB02_ver\WEMB02_f\WEMB02_f\WEMB02_f.kicad_pcb **
+** Created on  **
+
+** Found 13 DRC errors **
+ErrType(4): Pista cerca de pad
+    @ (188,778 mm,51,546 mm): Pista 0,250 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (186,238 mm,51,546 mm): Pad 16 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (186,238 mm,53,008 mm): Pista 0,250 mm, red [] (0) en capa F.Cu, longitud: 1,462 mm
+    @ (186,238 mm,54,086 mm): Pad 15 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (186,238 mm,54,086 mm): Pista 0,250 mm, red [] (0) en capa F.Cu, longitud: 1,078 mm
+    @ (186,238 mm,54,086 mm): Pad 15 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (180,080 mm,122,412 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 0,821 mm
+    @ (181,158 mm,122,412 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (181,158 mm,122,412 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 1,078 mm
+    @ (181,158 mm,122,412 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (179,500 mm,123,294 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,345 mm
+    @ (181,158 mm,124,952 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (183,698 mm,122,412 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (181,158 mm,122,412 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (213,670 mm,122,412 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (211,130 mm,122,412 mm): Pad 10 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (211,130 mm,124,952 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (211,130 mm,124,952 mm): Pad 9 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (211,130 mm,124,952 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 1,128 mm
+    @ (211,130 mm,124,952 mm): Pad 9 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (213,670 mm,51,546 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (211,130 mm,51,546 mm): Pad 13 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (211,130 mm,54,086 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (211,130 mm,54,086 mm): Pad 12 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (211,130 mm,54,086 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 1,128 mm
+    @ (211,130 mm,54,086 mm): Pad 12 en F.Cu, B.Cu, Interno, Sin cobre de U202
+
+** Found 39 unconnected pads **
+ErrType(2): Elementos no conectados
+    @ (203,500 mm,132,500 mm): Pista 0,800 mm, red [Earth] (2) en capa B.Cu, longitud: 4,950 mm
+    @ (202,702 mm,133,000 mm): Pad 2 en F.Cu, Sin cobre de CR201
+ErrType(2): Elementos no conectados
+    @ (149,475 mm,108,000 mm): Pad 2 en F.Cu, Sin cobre de C201
+    @ (146,000 mm,108,298 mm): Pad 2 en F.Cu, Sin cobre de CR202
+ErrType(2): Elementos no conectados
+    @ (166,488 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C204
+    @ (170,475 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C203
+ErrType(2): Elementos no conectados
+    @ (152,000 mm,40,975 mm): Pad 1 en F.Cu, Sin cobre de LED201
+    @ (156,500 mm,40,975 mm): Pad 1 en F.Cu, Sin cobre de LED202
+ErrType(2): Elementos no conectados
+    @ (160,000 mm,99,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP205
+    @ (160,000 mm,103,975 mm): Pad 2 en F.Cu, Sin cobre de R209
+ErrType(2): Elementos no conectados
+    @ (166,702 mm,39,000 mm): Pad 2 en F.Cu, Sin cobre de CR203
+    @ (166,488 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C204
+ErrType(2): Elementos no conectados
+    @ (168,460 mm,49,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U203
+    @ (166,488 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C204
+ErrType(2): Elementos no conectados
+    @ (157,405 mm,114,964 mm): Pad 4 en F.Cu, Sin cobre de U201
+    @ (155,000 mm,120,525 mm): Pad 2 en F.Cu, Sin cobre de R201
+ErrType(2): Elementos no conectados
+    @ (143,790 mm,102,500 mm): Pad 2 en F.Cu, Sin cobre de C305
+    @ (146,000 mm,108,298 mm): Pad 2 en F.Cu, Sin cobre de CR202
+ErrType(2): Elementos no conectados
+    @ (154,055 mm,94,953 mm): Pad 2 en F.Cu, Sin cobre de Q203
+    @ (160,000 mm,99,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP205
+ErrType(2): Elementos no conectados
+    @ (175,000 mm,117,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP204
+    @ (168,902 mm,112,953 mm): Pad 2 en F.Cu, Sin cobre de Q202
+ErrType(2): Elementos no conectados
+    @ (176,512 mm,39,000 mm): Pad 2 en F.Cu, Sin cobre de C306
+    @ (170,475 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C203
+ErrType(2): Elementos no conectados
+    @ (176,400 mm,30,900 mm): Pista 0,800 mm, red [Earth] (2) en capa B.Cu, longitud: 3,900 mm
+    @ (176,512 mm,39,000 mm): Pad 2 en F.Cu, Sin cobre de C306
+ErrType(2): Elementos no conectados
+    @ (156,500 mm,40,975 mm): Pad 1 en F.Cu, Sin cobre de LED202
+    @ (166,702 mm,39,000 mm): Pad 2 en F.Cu, Sin cobre de CR203
+ErrType(2): Elementos no conectados
+    @ (149,475 mm,108,000 mm): Pad 2 en F.Cu, Sin cobre de C201
+    @ (157,405 mm,114,964 mm): Pad 4 en F.Cu, Sin cobre de U201
+ErrType(2): Elementos no conectados
+    @ (149,475 mm,108,000 mm): Pad 2 en F.Cu, Sin cobre de C201
+    @ (160,000 mm,103,975 mm): Pad 2 en F.Cu, Sin cobre de R209
+ErrType(2): Elementos no conectados
+    @ (157,405 mm,114,964 mm): Pad 4 en F.Cu, Sin cobre de U201
+    @ (168,902 mm,112,953 mm): Pad 2 en F.Cu, Sin cobre de Q202
+ErrType(2): Elementos no conectados
+    @ (215,500 mm,55,916 mm): Pista 0,800 mm, red [Earth] (2) en capa B.Cu, longitud: 67,206 mm
+    @ (212,260 mm,80,060 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U204
+ErrType(2): Elementos no conectados
+    @ (202,702 mm,133,000 mm): Pad 2 en F.Cu, Sin cobre de CR201
+    @ (175,000 mm,117,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP204
+ErrType(2): Elementos no conectados
+    @ (169,000 mm,23,500 mm): Pista 0,800 mm, red [+5F] (5) en capa B.Cu, longitud: 0,500 mm
+    @ (169,500 mm,23,500 mm): Pista 0,800 mm, red [+5F] (5) en capa B.Cu, longitud: 0,441 mm
+ErrType(2): Elementos no conectados
+    @ (127,525 mm,50,500 mm): Pad 2 en F.Cu, Sin cobre de R303
+    @ (132,525 mm,50,500 mm): Pad 2 en F.Cu, Sin cobre de R308
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,61,240 mm): Pad 14 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (67,000 mm,56,160 mm): Pad 9 en F.Cu, B.Cu, Interno, Sin cobre de J302
+ErrType(2): Elementos no conectados
+    @ (143,873 mm,68,373 mm): Contorno de zona  (5BE73E57) [GNDS] en B.Cu
+    @ (149,025 mm,72,000 mm): Pad 2 en F.Cu, Sin cobre de C301
+ErrType(2): Elementos no conectados
+    @ (160,525 mm,75,475 mm): Pista 0,800 mm, red [GNDS] (7) en capa B.Cu, longitud: 2,996 mm
+    @ (161,000 mm,81,975 mm): Pad 1 en F.Cu, Sin cobre de C205
+ErrType(2): Elementos no conectados
+    @ (132,830 mm,33,500 mm): Pad 3 en F.Cu, Sin cobre de D301
+    @ (132,160 mm,27,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de J304
+ErrType(2): Elementos no conectados
+    @ (105,080 mm,28,000 mm): Pista 0,800 mm, red [GNDS] (7) en capa B.Cu, longitud: 4,420 mm
+    @ (106,513 mm,35,000 mm): Pad 2 en F.Cu, Sin cobre de C303
+ErrType(2): Elementos no conectados
+    @ (128,405 mm,41,300 mm): Pad 5 en F.Cu, Sin cobre de U302
+    @ (122,000 mm,45,025 mm): Pad 2 en F.Cu, Sin cobre de C304
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,61,240 mm): Pad 14 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (69,540 mm,68,860 mm): Pad 20 en F.Cu, B.Cu, Interno, Sin cobre de J302
+ErrType(2): Elementos no conectados
+    @ (122,000 mm,45,025 mm): Pad 2 en F.Cu, Sin cobre de C304
+    @ (127,525 mm,50,500 mm): Pad 2 en F.Cu, Sin cobre de R303
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,68,860 mm): Pad 20 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (67,000 mm,76,480 mm): Pad 25 en F.Cu, B.Cu, Interno, Sin cobre de J302
+ErrType(2): Elementos no conectados
+    @ (96,500 mm,44,475 mm): Pad 2 en F.Cu, Sin cobre de C302
+    @ (104,540 mm,45,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U301
+ErrType(2): Elementos no conectados
+    @ (132,830 mm,33,500 mm): Pad 3 en F.Cu, Sin cobre de D301
+    @ (128,405 mm,41,300 mm): Pad 5 en F.Cu, Sin cobre de U302
+ErrType(2): Elementos no conectados
+    @ (104,540 mm,45,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U301
+    @ (106,513 mm,35,000 mm): Pad 2 en F.Cu, Sin cobre de C303
+ErrType(2): Elementos no conectados
+    @ (124,050 mm,61,764 mm): Pad 43 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (127,525 mm,50,500 mm): Pad 2 en F.Cu, Sin cobre de R303
+ErrType(2): Elementos no conectados
+    @ (148,000 mm,85,025 mm): Pad 2 en F.Cu, Sin cobre de R301
+    @ (149,025 mm,72,000 mm): Pad 2 en F.Cu, Sin cobre de C301
+ErrType(2): Elementos no conectados
+    @ (144,000 mm,40,950 mm): Pad 1 en F.Cu, Sin cobre de LED203
+    @ (132,830 mm,33,500 mm): Pad 3 en F.Cu, Sin cobre de D301
+ErrType(2): Elementos no conectados
+    @ (96,500 mm,44,475 mm): Pad 2 en F.Cu, Sin cobre de C302
+    @ (81,000 mm,46,000 mm): Pad 2 en F.Cu, Sin cobre de C202
+ErrType(2): Elementos no conectados
+    @ (67,000 mm,56,160 mm): Pad 9 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (81,000 mm,46,000 mm): Pad 2 en F.Cu, Sin cobre de C202
+ErrType(2): Elementos no conectados
+    @ (137,500 mm,72,500 mm): Pista 0,800 mm, red [+5VL] (144) en capa F.Cu, longitud: 0,707 mm
+    @ (80,870 mm,64,799 mm): Pad 42 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+
+** End of Report **

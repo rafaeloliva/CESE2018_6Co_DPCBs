@@ -1,0 +1,77 @@
+** Drc report for C:\CESE2018\Materias\DisenioPCBs\TrabajoFinal\WEMB02_ver\WEMB02_f\WEMB02_f\WEMB02_f.kicad_pcb **
+** Created on  **
+
+** Found 23 DRC errors **
+ErrType(4): Pista cerca de pad
+    @ (188,778 mm,51,546 mm): Pista 0,250 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (186,238 mm,51,546 mm): Pad 16 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (186,238 mm,53,008 mm): Pista 0,250 mm, red [] (0) en capa F.Cu, longitud: 1,462 mm
+    @ (186,238 mm,54,086 mm): Pad 15 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (186,238 mm,54,086 mm): Pista 0,250 mm, red [] (0) en capa F.Cu, longitud: 1,078 mm
+    @ (186,238 mm,54,086 mm): Pad 15 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (180,080 mm,122,412 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 0,821 mm
+    @ (181,158 mm,122,412 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (181,158 mm,122,412 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 1,078 mm
+    @ (181,158 mm,122,412 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (179,500 mm,123,294 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,345 mm
+    @ (181,158 mm,124,952 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (183,698 mm,122,412 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (181,158 mm,122,412 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (213,670 mm,122,412 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (211,130 mm,122,412 mm): Pad 10 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (211,130 mm,124,952 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (211,130 mm,124,952 mm): Pad 9 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (211,130 mm,124,952 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 1,128 mm
+    @ (211,130 mm,124,952 mm): Pad 9 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (213,670 mm,51,546 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (211,130 mm,51,546 mm): Pad 13 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (211,130 mm,54,086 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 2,540 mm
+    @ (211,130 mm,54,086 mm): Pad 12 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(4): Pista cerca de pad
+    @ (211,130 mm,54,086 mm): Pista 0,800 mm, red [] (0) en capa F.Cu, longitud: 1,128 mm
+    @ (211,130 mm,54,086 mm): Pad 12 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(22): Área de cobre dentro de área de cobre
+    @ (196,500 mm,30,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+    @ (196,500 mm,30,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+ErrType(22): Área de cobre dentro de área de cobre
+    @ (196,500 mm,31,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+    @ (196,500 mm,31,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+ErrType(23): Áreas de cobre superpuestas o demasiado cerca
+    @ (184,000 mm,30,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+    @ (184,000 mm,30,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+ErrType(23): Áreas de cobre superpuestas o demasiado cerca
+    @ (184,500 mm,30,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+    @ (184,500 mm,30,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+ErrType(23): Áreas de cobre superpuestas o demasiado cerca
+    @ (184,500 mm,31,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+    @ (184,500 mm,31,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+ErrType(22): Área de cobre dentro de área de cobre
+    @ (196,500 mm,30,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+    @ (196,500 mm,30,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+ErrType(22): Área de cobre dentro de área de cobre
+    @ (196,500 mm,31,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+    @ (196,500 mm,31,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+ErrType(23): Áreas de cobre superpuestas o demasiado cerca
+    @ (184,000 mm,30,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+    @ (184,000 mm,30,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+ErrType(23): Áreas de cobre superpuestas o demasiado cerca
+    @ (184,500 mm,30,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+    @ (184,500 mm,30,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+ErrType(23): Áreas de cobre superpuestas o demasiado cerca
+    @ (184,500 mm,31,500 mm): Contorno de zona  (5BE79C6F) [Earth] en F.Cu
+    @ (184,500 mm,31,500 mm): Contorno de zona  (5BE79C9C) [+15V] en F.Cu
+
+** Found 0 unconnected pads **
+
+** End of Report **

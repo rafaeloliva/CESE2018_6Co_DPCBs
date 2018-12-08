@@ -1,0 +1,578 @@
+** Drc report for C:\CESE2018\Materias\DisenioPCBs\TrabajoFinal\WEMB02_ver\WEMB02_e\WEMB02_e\WEMB02_e.kicad_pcb **
+** Created on  **
+
+** Found 15 DRC errors **
+ErrType(19): Pad cerca de pad
+    @ (124,595 mm,41,300 mm): Pad 8 en F.Cu, Sin cobre de U302
+    @ (125,865 mm,41,300 mm): Pad 7 en F.Cu, Sin cobre de U302
+ErrType(19): Pad cerca de pad
+    @ (124,595 mm,46,700 mm): Pad 1 en F.Cu, Sin cobre de U302
+    @ (125,865 mm,46,700 mm): Pad 2 en F.Cu, Sin cobre de U302
+ErrType(19): Pad cerca de pad
+    @ (125,865 mm,41,300 mm): Pad 7 en F.Cu, Sin cobre de U302
+    @ (127,135 mm,41,300 mm): Pad 6 en F.Cu, Sin cobre de U302
+ErrType(19): Pad cerca de pad
+    @ (127,135 mm,41,300 mm): Pad 6 en F.Cu, Sin cobre de U302
+    @ (128,405 mm,41,300 mm): Pad 5 en F.Cu, Sin cobre de U302
+ErrType(19): Pad cerca de pad
+    @ (127,135 mm,46,700 mm): Pad 3 en F.Cu, Sin cobre de U302
+    @ (128,405 mm,46,700 mm): Pad 4 en F.Cu, Sin cobre de U302
+ErrType(19): Pad cerca de pad
+    @ (153,595 mm,110,036 mm): Pad 8 en F.Cu, Sin cobre de U201
+    @ (154,865 mm,110,036 mm): Pad 7 en F.Cu, Sin cobre de U201
+ErrType(19): Pad cerca de pad
+    @ (153,595 mm,114,964 mm): Pad 1 en F.Cu, Sin cobre de U201
+    @ (154,865 mm,114,964 mm): Pad 2 en F.Cu, Sin cobre de U201
+ErrType(19): Pad cerca de pad
+    @ (154,055 mm,93,047 mm): Pad 1 en F.Cu, Sin cobre de Q203
+    @ (155,847 mm,94,000 mm): Pad 3 en F.Cu, Sin cobre de Q203
+ErrType(19): Pad cerca de pad
+    @ (154,055 mm,94,953 mm): Pad 2 en F.Cu, Sin cobre de Q203
+    @ (155,847 mm,94,000 mm): Pad 3 en F.Cu, Sin cobre de Q203
+ErrType(19): Pad cerca de pad
+    @ (154,865 mm,110,036 mm): Pad 7 en F.Cu, Sin cobre de U201
+    @ (156,135 mm,110,036 mm): Pad 6 en F.Cu, Sin cobre de U201
+ErrType(19): Pad cerca de pad
+    @ (154,865 mm,114,964 mm): Pad 2 en F.Cu, Sin cobre de U201
+    @ (156,135 mm,114,964 mm): Pad 3 en F.Cu, Sin cobre de U201
+ErrType(19): Pad cerca de pad
+    @ (156,135 mm,110,036 mm): Pad 6 en F.Cu, Sin cobre de U201
+    @ (157,405 mm,110,036 mm): Pad 5 en F.Cu, Sin cobre de U201
+ErrType(19): Pad cerca de pad
+    @ (156,135 mm,114,964 mm): Pad 3 en F.Cu, Sin cobre de U201
+    @ (157,405 mm,114,964 mm): Pad 4 en F.Cu, Sin cobre de U201
+ErrType(19): Pad cerca de pad
+    @ (168,902 mm,111,047 mm): Pad 1 en F.Cu, Sin cobre de Q202
+    @ (170,695 mm,112,000 mm): Pad 3 en F.Cu, Sin cobre de Q202
+ErrType(19): Pad cerca de pad
+    @ (168,902 mm,112,953 mm): Pad 2 en F.Cu, Sin cobre de Q202
+    @ (170,695 mm,112,000 mm): Pad 3 en F.Cu, Sin cobre de Q202
+
+** Found 175 unconnected pads **
+ErrType(2): Elementos no conectados
+    @ (192,000 mm,133,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de FR202
+    @ (186,000 mm,151,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de BAT(+)201
+ErrType(2): Elementos no conectados
+    @ (186,000 mm,151,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de BAT(+)201
+    @ (169,000 mm,143,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de FR201
+ErrType(2): Elementos no conectados
+    @ (146,000 mm,108,298 mm): Pad 2 en F.Cu, Sin cobre de CR202
+    @ (149,475 mm,108,000 mm): Pad 2 en F.Cu, Sin cobre de C201
+ErrType(2): Elementos no conectados
+    @ (170,475 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C203
+    @ (166,488 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C204
+ErrType(2): Elementos no conectados
+    @ (151,500 mm,40,975 mm): Pad 1 en F.Cu, Sin cobre de LED202
+    @ (156,000 mm,40,975 mm): Pad 1 en F.Cu, Sin cobre de LED201
+ErrType(2): Elementos no conectados
+    @ (160,000 mm,103,975 mm): Pad 2 en F.Cu, Sin cobre de R209
+    @ (160,000 mm,99,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP205
+ErrType(2): Elementos no conectados
+    @ (166,488 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C204
+    @ (166,702 mm,39,000 mm): Pad 2 en F.Cu, Sin cobre de CR203
+ErrType(2): Elementos no conectados
+    @ (166,488 mm,44,000 mm): Pad 2 en F.Cu, Sin cobre de C204
+    @ (168,460 mm,49,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U203
+ErrType(2): Elementos no conectados
+    @ (155,000 mm,120,525 mm): Pad 2 en F.Cu, Sin cobre de R201
+    @ (157,405 mm,114,964 mm): Pad 4 en F.Cu, Sin cobre de U201
+ErrType(2): Elementos no conectados
+    @ (160,000 mm,99,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP205
+    @ (154,055 mm,94,953 mm): Pad 2 en F.Cu, Sin cobre de Q203
+ErrType(2): Elementos no conectados
+    @ (168,902 mm,112,953 mm): Pad 2 en F.Cu, Sin cobre de Q202
+    @ (175,000 mm,117,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP204
+ErrType(2): Elementos no conectados
+    @ (146,000 mm,108,298 mm): Pad 2 en F.Cu, Sin cobre de CR202
+    @ (142,000 mm,115,790 mm): Pad 2 en F.Cu, Sin cobre de C202
+ErrType(2): Elementos no conectados
+    @ (149,475 mm,108,000 mm): Pad 2 en F.Cu, Sin cobre de C201
+    @ (157,405 mm,114,964 mm): Pad 4 en F.Cu, Sin cobre de U201
+ErrType(2): Elementos no conectados
+    @ (166,702 mm,39,000 mm): Pad 2 en F.Cu, Sin cobre de CR203
+    @ (156,000 mm,40,975 mm): Pad 1 en F.Cu, Sin cobre de LED201
+ErrType(2): Elementos no conectados
+    @ (160,000 mm,103,975 mm): Pad 2 en F.Cu, Sin cobre de R209
+    @ (149,475 mm,108,000 mm): Pad 2 en F.Cu, Sin cobre de C201
+ErrType(2): Elementos no conectados
+    @ (168,902 mm,112,953 mm): Pad 2 en F.Cu, Sin cobre de Q202
+    @ (157,405 mm,114,964 mm): Pad 4 en F.Cu, Sin cobre de U201
+ErrType(2): Elementos no conectados
+    @ (161,160 mm,27,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+    @ (166,702 mm,39,000 mm): Pad 2 en F.Cu, Sin cobre de CR203
+ErrType(2): Elementos no conectados
+    @ (213,670 mm,124,952 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U202
+    @ (202,702 mm,133,000 mm): Pad 2 en F.Cu, Sin cobre de CR201
+ErrType(2): Elementos no conectados
+    @ (161,160 mm,27,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+    @ (176,400 mm,27,000 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+ErrType(2): Elementos no conectados
+    @ (192,160 mm,27,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+    @ (207,400 mm,27,000 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+ErrType(2): Elementos no conectados
+    @ (207,400 mm,27,000 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+    @ (203,702 mm,42,000 mm): Pad 2 en F.Cu, Sin cobre de CR204
+ErrType(2): Elementos no conectados
+    @ (154,975 mm,136,000 mm): Pad 2 en F.Cu, Sin cobre de R204
+    @ (155,000 mm,120,525 mm): Pad 2 en F.Cu, Sin cobre de R201
+ErrType(2): Elementos no conectados
+    @ (203,702 mm,42,000 mm): Pad 2 en F.Cu, Sin cobre de CR204
+    @ (213,670 mm,54,086 mm): Pad 5 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(2): Elementos no conectados
+    @ (176,400 mm,27,000 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+    @ (192,160 mm,27,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+ErrType(2): Elementos no conectados
+    @ (203,500 mm,151,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de BAT(-)201
+    @ (202,702 mm,133,000 mm): Pad 2 en F.Cu, Sin cobre de CR201
+ErrType(2): Elementos no conectados
+    @ (213,670 mm,54,086 mm): Pad 5 en F.Cu, B.Cu, Interno, Sin cobre de U202
+    @ (212,260 mm,80,060 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U204
+ErrType(2): Elementos no conectados
+    @ (175,000 mm,117,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP204
+    @ (202,702 mm,133,000 mm): Pad 2 en F.Cu, Sin cobre de CR201
+ErrType(2): Elementos no conectados
+    @ (212,260 mm,80,060 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U204
+    @ (213,670 mm,124,952 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(2): Elementos no conectados
+    @ (151,525 mm,130,478 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de POT201
+    @ (151,525 mm,127,978 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de POT201
+ErrType(2): Elementos no conectados
+    @ (159,025 mm,127,978 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de POT203
+    @ (159,025 mm,130,478 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de POT203
+ErrType(2): Elementos no conectados
+    @ (153,595 mm,110,036 mm): Pad 8 en F.Cu, Sin cobre de U201
+    @ (151,525 mm,108,000 mm): Pad 1 en F.Cu, Sin cobre de C201
+ErrType(2): Elementos no conectados
+    @ (151,050 mm,140,050 mm): Pad 2 en F.Cu, Sin cobre de Q201
+    @ (150,000 mm,136,000 mm): Pad 1 en F.Cu, Sin cobre de TP2
+ErrType(2): Elementos no conectados
+    @ (151,525 mm,108,000 mm): Pad 1 en F.Cu, Sin cobre de C201
+    @ (155,000 mm,103,975 mm): Pad 1 en F.Cu, Sin cobre de R207
+ErrType(2): Elementos no conectados
+    @ (147,500 mm,120,525 mm): Pad 1 en F.Cu, Sin cobre de R205
+    @ (142,000 mm,120,210 mm): Pad 1 en F.Cu, Sin cobre de C202
+ErrType(2): Elementos no conectados
+    @ (151,525 mm,130,478 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de POT201
+    @ (150,000 mm,136,000 mm): Pad 1 en F.Cu, Sin cobre de TP2
+ErrType(2): Elementos no conectados
+    @ (151,525 mm,108,000 mm): Pad 1 en F.Cu, Sin cobre de C201
+    @ (146,000 mm,111,702 mm): Pad 1 en F.Cu, Sin cobre de CR202
+ErrType(2): Elementos no conectados
+    @ (155,000 mm,145,460 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP203
+    @ (151,050 mm,140,050 mm): Pad 2 en F.Cu, Sin cobre de Q201
+ErrType(2): Elementos no conectados
+    @ (159,025 mm,127,978 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de POT203
+    @ (151,525 mm,127,978 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de POT201
+ErrType(2): Elementos no conectados
+    @ (147,500 mm,120,525 mm): Pad 1 en F.Cu, Sin cobre de R205
+    @ (151,525 mm,127,978 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de POT201
+ErrType(2): Elementos no conectados
+    @ (146,000 mm,111,702 mm): Pad 1 en F.Cu, Sin cobre de CR202
+    @ (147,500 mm,120,525 mm): Pad 1 en F.Cu, Sin cobre de R205
+ErrType(2): Elementos no conectados
+    @ (171,000 mm,49,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de U203
+    @ (172,525 mm,44,000 mm): Pad 1 en F.Cu, Sin cobre de C203
+ErrType(2): Elementos no conectados
+    @ (182,000 mm,27,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+    @ (197,240 mm,27,000 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+ErrType(2): Elementos no conectados
+    @ (151,000 mm,27,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+    @ (166,240 mm,27,000 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+ErrType(2): Elementos no conectados
+    @ (200,298 mm,42,000 mm): Pad 1 en F.Cu, Sin cobre de CR204
+    @ (197,240 mm,27,000 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+ErrType(2): Elementos no conectados
+    @ (156,500 mm,54,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP306
+    @ (171,000 mm,49,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de U203
+ErrType(2): Elementos no conectados
+    @ (166,240 mm,27,000 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+    @ (182,000 mm,27,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+ErrType(2): Elementos no conectados
+    @ (200,298 mm,42,000 mm): Pad 1 en F.Cu, Sin cobre de CR204
+    @ (188,778 mm,54,086 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(2): Elementos no conectados
+    @ (172,525 mm,44,000 mm): Pad 1 en F.Cu, Sin cobre de C203
+    @ (166,240 mm,27,000 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+ErrType(2): Elementos no conectados
+    @ (188,778 mm,54,086 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de U202
+    @ (212,260 mm,85,140 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de U204
+ErrType(2): Elementos no conectados
+    @ (163,512 mm,44,000 mm): Pad 1 en F.Cu, Sin cobre de C204
+    @ (163,298 mm,39,000 mm): Pad 1 en F.Cu, Sin cobre de CR203
+ErrType(2): Elementos no conectados
+    @ (163,512 mm,44,000 mm): Pad 1 en F.Cu, Sin cobre de C204
+    @ (165,920 mm,49,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de U203
+ErrType(2): Elementos no conectados
+    @ (156,080 mm,27,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+    @ (163,298 mm,39,000 mm): Pad 1 en F.Cu, Sin cobre de CR203
+ErrType(2): Elementos no conectados
+    @ (171,320 mm,27,000 mm): Pad 5 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+    @ (163,298 mm,39,000 mm): Pad 1 en F.Cu, Sin cobre de CR203
+ErrType(2): Elementos no conectados
+    @ (187,080 mm,27,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+    @ (202,320 mm,27,000 mm): Pad 5 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+ErrType(2): Elementos no conectados
+    @ (165,920 mm,49,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de U203
+    @ (151,500 mm,54,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP307
+ErrType(2): Elementos no conectados
+    @ (171,320 mm,27,000 mm): Pad 5 en F.Cu, B.Cu, Interno, Sin cobre de JF202
+    @ (187,080 mm,27,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JF201
+ErrType(2): Elementos no conectados
+    @ (161,000 mm,84,025 mm): Pad 2 en F.Cu, Sin cobre de C205
+    @ (157,000 mm,84,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de FR301
+ErrType(2): Elementos no conectados
+    @ (96,500 mm,46,525 mm): Pad 1 en F.Cu, Sin cobre de C302
+    @ (102,000 mm,45,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de U301
+ErrType(2): Elementos no conectados
+    @ (166,540 mm,87,680 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de U204
+    @ (161,000 mm,84,025 mm): Pad 2 en F.Cu, Sin cobre de C205
+ErrType(2): Elementos no conectados
+    @ (96,500 mm,46,525 mm): Pad 1 en F.Cu, Sin cobre de C302
+    @ (96,000 mm,35,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de FR302
+ErrType(2): Elementos no conectados
+    @ (102,000 mm,45,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de U301
+    @ (115,500 mm,41,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP304
+ErrType(2): Elementos no conectados
+    @ (115,500 mm,41,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP304
+    @ (144,000 mm,49,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP308
+ErrType(2): Elementos no conectados
+    @ (144,000 mm,49,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP308
+    @ (157,000 mm,84,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de FR301
+ErrType(2): Elementos no conectados
+    @ (129,130 mm,115,350 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (129,130 mm,117,890 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (124,050 mm,61,764 mm): Pad 43 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (124,050 mm,64,799 mm): Pad 25 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (127,525 mm,50,500 mm): Pad 2 en F.Cu, Sin cobre de R303
+    @ (132,525 mm,50,500 mm): Pad 2 en F.Cu, Sin cobre de R308
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,61,240 mm): Pad 14 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (67,000 mm,56,160 mm): Pad 9 en F.Cu, B.Cu, Interno, Sin cobre de J302
+ErrType(2): Elementos no conectados
+    @ (132,830 mm,33,500 mm): Pad 3 en F.Cu, Sin cobre de D301
+    @ (132,160 mm,27,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de J304
+ErrType(2): Elementos no conectados
+    @ (152,000 mm,77,975 mm): Pad 2 en F.Cu, Sin cobre de R301
+    @ (149,025 mm,72,000 mm): Pad 2 en F.Cu, Sin cobre de C301
+ErrType(2): Elementos no conectados
+    @ (161,000 mm,81,975 mm): Pad 1 en F.Cu, Sin cobre de C205
+    @ (166,540 mm,77,520 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de U204
+ErrType(2): Elementos no conectados
+    @ (166,540 mm,77,520 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de U204
+    @ (161,025 mm,72,978 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de POT205
+ErrType(2): Elementos no conectados
+    @ (105,080 mm,28,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de J303
+    @ (106,513 mm,35,000 mm): Pad 2 en F.Cu, Sin cobre de C303
+ErrType(2): Elementos no conectados
+    @ (128,405 mm,41,300 mm): Pad 5 en F.Cu, Sin cobre de U302
+    @ (122,000 mm,45,025 mm): Pad 2 en F.Cu, Sin cobre de C304
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,61,240 mm): Pad 14 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (69,540 mm,68,860 mm): Pad 20 en F.Cu, B.Cu, Interno, Sin cobre de J302
+ErrType(2): Elementos no conectados
+    @ (122,000 mm,45,025 mm): Pad 2 en F.Cu, Sin cobre de C304
+    @ (127,525 mm,50,500 mm): Pad 2 en F.Cu, Sin cobre de R303
+ErrType(2): Elementos no conectados
+    @ (67,000 mm,76,480 mm): Pad 25 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (69,540 mm,68,860 mm): Pad 20 en F.Cu, B.Cu, Interno, Sin cobre de J302
+ErrType(2): Elementos no conectados
+    @ (104,540 mm,45,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U301
+    @ (96,500 mm,44,475 mm): Pad 2 en F.Cu, Sin cobre de C302
+ErrType(2): Elementos no conectados
+    @ (128,405 mm,41,300 mm): Pad 5 en F.Cu, Sin cobre de U302
+    @ (132,830 mm,33,500 mm): Pad 3 en F.Cu, Sin cobre de D301
+ErrType(2): Elementos no conectados
+    @ (152,000 mm,77,975 mm): Pad 2 en F.Cu, Sin cobre de R301
+    @ (161,000 mm,81,975 mm): Pad 1 en F.Cu, Sin cobre de C205
+ErrType(2): Elementos no conectados
+    @ (104,540 mm,45,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U301
+    @ (106,513 mm,35,000 mm): Pad 2 en F.Cu, Sin cobre de C303
+ErrType(2): Elementos no conectados
+    @ (144,000 mm,36,475 mm): Pad 1 en F.Cu, Sin cobre de LED203
+    @ (132,830 mm,33,500 mm): Pad 3 en F.Cu, Sin cobre de D301
+ErrType(2): Elementos no conectados
+    @ (127,525 mm,50,500 mm): Pad 2 en F.Cu, Sin cobre de R303
+    @ (124,050 mm,61,764 mm): Pad 43 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (104,540 mm,45,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de U301
+    @ (122,000 mm,45,025 mm): Pad 2 en F.Cu, Sin cobre de C304
+ErrType(2): Elementos no conectados
+    @ (80,000 mm,27,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de J301
+    @ (96,500 mm,44,475 mm): Pad 2 en F.Cu, Sin cobre de C302
+ErrType(2): Elementos no conectados
+    @ (149,025 mm,72,000 mm): Pad 2 en F.Cu, Sin cobre de C301
+    @ (124,050 mm,64,799 mm): Pad 25 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (67,000 mm,56,160 mm): Pad 9 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (96,500 mm,44,475 mm): Pad 2 en F.Cu, Sin cobre de C302
+ErrType(2): Elementos no conectados
+    @ (129,130 mm,115,350 mm): Pad 7 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (152,000 mm,77,975 mm): Pad 2 en F.Cu, Sin cobre de R301
+ErrType(2): Elementos no conectados
+    @ (129,130 mm,117,890 mm): Pad 6 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (80,870 mm,132,114 mm): Pad 83 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (115,500 mm,46,080 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP304
+    @ (107,080 mm,45,500 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de U301
+ErrType(2): Elementos no conectados
+    @ (107,080 mm,45,500 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de U301
+    @ (109,487 mm,35,000 mm): Pad 1 en F.Cu, Sin cobre de C303
+ErrType(2): Elementos no conectados
+    @ (122,000 mm,42,975 mm): Pad 1 en F.Cu, Sin cobre de C304
+    @ (119,500 mm,42,975 mm): Pad 1 en F.Cu, Sin cobre de R307
+ErrType(2): Elementos no conectados
+    @ (124,595 mm,41,300 mm): Pad 8 en F.Cu, Sin cobre de U302
+    @ (122,000 mm,42,975 mm): Pad 1 en F.Cu, Sin cobre de C304
+ErrType(2): Elementos no conectados
+    @ (119,500 mm,42,975 mm): Pad 1 en F.Cu, Sin cobre de R307
+    @ (115,500 mm,43,540 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP304
+ErrType(2): Elementos no conectados
+    @ (182,000 mm,133,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de FR202
+    @ (183,698 mm,124,952 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(2): Elementos no conectados
+    @ (175,000 mm,124,000 mm): Pad 2 en F.Cu, Sin cobre de R217
+    @ (183,698 mm,124,952 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(2): Elementos no conectados
+    @ (199,298 mm,133,000 mm): Pad 1 en F.Cu, Sin cobre de CR201
+    @ (182,000 mm,133,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de FR202
+ErrType(2): Elementos no conectados
+    @ (130,170 mm,34,150 mm): Pad 2 en F.Cu, Sin cobre de D301
+    @ (127,500 mm,36,475 mm): Pad 1 en F.Cu, Sin cobre de R304
+ErrType(2): Elementos no conectados
+    @ (127,500 mm,36,475 mm): Pad 1 en F.Cu, Sin cobre de R304
+    @ (123,025 mm,33,500 mm): Pad 2 en F.Cu, Sin cobre de R306
+ErrType(2): Elementos no conectados
+    @ (123,025 mm,33,500 mm): Pad 2 en F.Cu, Sin cobre de R306
+    @ (122,000 mm,27,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de J304
+ErrType(2): Elementos no conectados
+    @ (159,000 mm,148,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP202
+    @ (155,000 mm,148,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP203
+ErrType(2): Elementos no conectados
+    @ (163,000 mm,148,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP201
+    @ (159,000 mm,148,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP202
+ErrType(2): Elementos no conectados
+    @ (169,000 mm,148,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de FR201
+    @ (163,000 mm,148,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP201
+ErrType(2): Elementos no conectados
+    @ (155,000 mm,148,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP203
+    @ (148,950 mm,141,000 mm): Pad 3 en F.Cu, Sin cobre de Q201
+ErrType(2): Elementos no conectados
+    @ (152,000 mm,84,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de FR301
+    @ (148,200 mm,78,000 mm): Pad 2 en F.Cu, Sin cobre de Q301
+ErrType(2): Elementos no conectados
+    @ (101,000 mm,35,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de FR302
+    @ (100,000 mm,28,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de J303
+ErrType(2): Elementos no conectados
+    @ (82,540 mm,27,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de J301
+    @ (83,000 mm,36,050 mm): Pad 1 en F.Cu, Sin cobre de R213
+ErrType(2): Elementos no conectados
+    @ (80,870 mm,79,790 mm): Pad 64 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (85,080 mm,27,000 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de J301
+ErrType(2): Elementos no conectados
+    @ (80,870 mm,77,250 mm): Pad 63 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (87,620 mm,27,000 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de J301
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,53,620 mm): Pad 8 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (137,080 mm,54,500 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP301
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,56,160 mm): Pad 10 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (115,080 mm,54,500 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP302
+ErrType(2): Elementos no conectados
+    @ (126,080 mm,54,500 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de JP303
+    @ (69,540 mm,71,400 mm): Pad 22 en F.Cu, B.Cu, Interno, Sin cobre de J302
+ErrType(2): Elementos no conectados
+    @ (163,000 mm,142,025 mm): Pad 1 en F.Cu, Sin cobre de R202
+    @ (163,000 mm,145,460 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP201
+ErrType(2): Elementos no conectados
+    @ (159,000 mm,145,460 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP202
+    @ (159,000 mm,142,025 mm): Pad 1 en F.Cu, Sin cobre de R203
+ErrType(2): Elementos no conectados
+    @ (170,695 mm,112,000 mm): Pad 3 en F.Cu, Sin cobre de Q202
+    @ (175,000 mm,112,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP204
+ErrType(2): Elementos no conectados
+    @ (175,000 mm,121,950 mm): Pad 1 en F.Cu, Sin cobre de R217
+    @ (175,000 mm,114,540 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP204
+ErrType(2): Elementos no conectados
+    @ (175,000 mm,114,540 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP204
+    @ (201,478 mm,111,236 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de U202
+ErrType(2): Elementos no conectados
+    @ (160,000 mm,96,540 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP205
+    @ (155,847 mm,94,000 mm): Pad 3 en F.Cu, Sin cobre de Q203
+ErrType(2): Elementos no conectados
+    @ (212,260 mm,69,900 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de U204
+    @ (160,000 mm,94,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP205
+ErrType(2): Elementos no conectados
+    @ (80,870 mm,84,870 mm): Pad 66 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (132,000 mm,54,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP301
+ErrType(2): Elementos no conectados
+    @ (130,475 mm,50,500 mm): Pad 1 en F.Cu, Sin cobre de R308
+    @ (128,405 mm,46,700 mm): Pad 4 en F.Cu, Sin cobre de U302
+ErrType(2): Elementos no conectados
+    @ (134,540 mm,54,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP301
+    @ (130,475 mm,50,500 mm): Pad 1 en F.Cu, Sin cobre de R308
+ErrType(2): Elementos no conectados
+    @ (119,500 mm,45,025 mm): Pad 2 en F.Cu, Sin cobre de R307
+    @ (124,595 mm,46,700 mm): Pad 1 en F.Cu, Sin cobre de U302
+ErrType(2): Elementos no conectados
+    @ (112,540 mm,54,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP302
+    @ (119,500 mm,45,025 mm): Pad 2 en F.Cu, Sin cobre de R307
+ErrType(2): Elementos no conectados
+    @ (80,870 mm,82,330 mm): Pad 65 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (110,000 mm,54,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP302
+ErrType(2): Elementos no conectados
+    @ (80,870 mm,105,190 mm): Pad 73 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (121,000 mm,54,500 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP303
+ErrType(2): Elementos no conectados
+    @ (125,865 mm,46,700 mm): Pad 2 en F.Cu, Sin cobre de U302
+    @ (127,135 mm,46,700 mm): Pad 3 en F.Cu, Sin cobre de U302
+ErrType(2): Elementos no conectados
+    @ (125,865 mm,46,700 mm): Pad 2 en F.Cu, Sin cobre de U302
+    @ (125,475 mm,50,500 mm): Pad 1 en F.Cu, Sin cobre de R303
+ErrType(2): Elementos no conectados
+    @ (125,475 mm,50,500 mm): Pad 1 en F.Cu, Sin cobre de R303
+    @ (123,540 mm,54,500 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP303
+ErrType(2): Elementos no conectados
+    @ (116,000 mm,30,000 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de JP305
+    @ (120,975 mm,33,500 mm): Pad 1 en F.Cu, Sin cobre de R306
+ErrType(2): Elementos no conectados
+    @ (156,000 mm,43,025 mm): Pad 2 en F.Cu, Sin cobre de LED201
+    @ (156,500 mm,45,475 mm): Pad 2 en F.Cu, Sin cobre de R210
+ErrType(2): Elementos no conectados
+    @ (151,500 mm,45,475 mm): Pad 2 en F.Cu, Sin cobre de R211
+    @ (151,500 mm,43,025 mm): Pad 2 en F.Cu, Sin cobre de LED202
+ErrType(2): Elementos no conectados
+    @ (144,000 mm,38,525 mm): Pad 2 en F.Cu, Sin cobre de LED203
+    @ (144,000 mm,41,000 mm): Pad 2 en F.Cu, Sin cobre de R212
+ErrType(2): Elementos no conectados
+    @ (144,025 mm,127,978 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de POT202
+    @ (144,025 mm,125,478 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT202
+ErrType(2): Elementos no conectados
+    @ (151,525 mm,125,478 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT201
+    @ (151,500 mm,120,000 mm): Pad 1 en F.Cu, Sin cobre de TP3
+ErrType(2): Elementos no conectados
+    @ (154,865 mm,114,964 mm): Pad 2 en F.Cu, Sin cobre de U201
+    @ (151,500 mm,120,000 mm): Pad 1 en F.Cu, Sin cobre de TP3
+ErrType(2): Elementos no conectados
+    @ (151,525 mm,125,478 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT201
+    @ (144,025 mm,125,478 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT202
+ErrType(2): Elementos no conectados
+    @ (156,135 mm,114,964 mm): Pad 3 en F.Cu, Sin cobre de U201
+    @ (155,000 mm,118,475 mm): Pad 1 en F.Cu, Sin cobre de R201
+ErrType(2): Elementos no conectados
+    @ (144,000 mm,136,000 mm): Pad 1 en F.Cu, Sin cobre de TP1
+    @ (144,025 mm,130,478 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de POT202
+ErrType(2): Elementos no conectados
+    @ (144,025 mm,130,478 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de POT202
+    @ (155,000 mm,118,475 mm): Pad 1 en F.Cu, Sin cobre de R201
+ErrType(2): Elementos no conectados
+    @ (166,627 mm,125,392 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT204
+    @ (166,627 mm,127,892 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de POT204
+ErrType(2): Elementos no conectados
+    @ (159,025 mm,125,478 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT203
+    @ (159,500 mm,120,000 mm): Pad 1 en F.Cu, Sin cobre de TP4
+ErrType(2): Elementos no conectados
+    @ (166,627 mm,125,392 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT204
+    @ (159,025 mm,125,478 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT203
+ErrType(2): Elementos no conectados
+    @ (157,405 mm,110,036 mm): Pad 5 en F.Cu, Sin cobre de U201
+    @ (159,500 mm,120,000 mm): Pad 1 en F.Cu, Sin cobre de TP4
+ErrType(2): Elementos no conectados
+    @ (156,135 mm,110,036 mm): Pad 6 en F.Cu, Sin cobre de U201
+    @ (160,000 mm,106,025 mm): Pad 1 en F.Cu, Sin cobre de R209
+ErrType(2): Elementos no conectados
+    @ (165,000 mm,120,000 mm): Pad 1 en F.Cu, Sin cobre de TP5
+    @ (166,627 mm,130,392 mm): Pad 1 en F.Cu, B.Cu, Interno, Sin cobre de POT204
+ErrType(2): Elementos no conectados
+    @ (165,000 mm,120,000 mm): Pad 1 en F.Cu, Sin cobre de TP5
+    @ (156,135 mm,110,036 mm): Pad 6 en F.Cu, Sin cobre de U201
+ErrType(2): Elementos no conectados
+    @ (161,025 mm,70,478 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de POT205
+    @ (161,025 mm,67,978 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT205
+ErrType(2): Elementos no conectados
+    @ (161,025 mm,67,978 mm): Pad 3 en F.Cu, B.Cu, Interno, Sin cobre de POT205
+    @ (166,540 mm,67,360 mm): Pad 8 en F.Cu, B.Cu, Interno, Sin cobre de U204
+ErrType(2): Elementos no conectados
+    @ (159,000 mm,139,975 mm): Pad 2 en F.Cu, Sin cobre de R203
+    @ (163,000 mm,139,975 mm): Pad 2 en F.Cu, Sin cobre de R202
+ErrType(2): Elementos no conectados
+    @ (157,025 mm,136,000 mm): Pad 1 en F.Cu, Sin cobre de R204
+    @ (159,000 mm,139,975 mm): Pad 2 en F.Cu, Sin cobre de R203
+ErrType(2): Elementos no conectados
+    @ (159,000 mm,139,975 mm): Pad 2 en F.Cu, Sin cobre de R203
+    @ (151,050 mm,141,950 mm): Pad 1 en F.Cu, Sin cobre de Q201
+ErrType(2): Elementos no conectados
+    @ (168,902 mm,111,047 mm): Pad 1 en F.Cu, Sin cobre de Q202
+    @ (171,025 mm,117,000 mm): Pad 2 en F.Cu, Sin cobre de R206
+ErrType(2): Elementos no conectados
+    @ (155,000 mm,97,975 mm): Pad 2 en F.Cu, Sin cobre de R208
+    @ (154,055 mm,93,047 mm): Pad 1 en F.Cu, Sin cobre de Q203
+ErrType(2): Elementos no conectados
+    @ (148,200 mm,80,280 mm): Pad 1 en F.Cu, Sin cobre de Q301
+    @ (152,000 mm,80,025 mm): Pad 1 en F.Cu, Sin cobre de R301
+ErrType(2): Elementos no conectados
+    @ (147,500 mm,118,475 mm): Pad 2 en F.Cu, Sin cobre de R205
+    @ (153,595 mm,114,964 mm): Pad 1 en F.Cu, Sin cobre de U201
+ErrType(2): Elementos no conectados
+    @ (153,595 mm,114,964 mm): Pad 1 en F.Cu, Sin cobre de U201
+    @ (168,975 mm,117,000 mm): Pad 1 en F.Cu, Sin cobre de R206
+ErrType(2): Elementos no conectados
+    @ (155,000 mm,106,025 mm): Pad 2 en F.Cu, Sin cobre de R207
+    @ (154,865 mm,110,036 mm): Pad 7 en F.Cu, Sin cobre de U201
+ErrType(2): Elementos no conectados
+    @ (155,000 mm,100,025 mm): Pad 1 en F.Cu, Sin cobre de R208
+    @ (155,000 mm,106,025 mm): Pad 2 en F.Cu, Sin cobre de R207
+ErrType(2): Elementos no conectados
+    @ (127,135 mm,41,300 mm): Pad 6 en F.Cu, Sin cobre de U302
+    @ (127,500 mm,38,525 mm): Pad 2 en F.Cu, Sin cobre de R304
+ErrType(2): Elementos no conectados
+    @ (125,000 mm,38,525 mm): Pad 2 en F.Cu, Sin cobre de R305
+    @ (125,865 mm,41,300 mm): Pad 7 en F.Cu, Sin cobre de U302
+ErrType(2): Elementos no conectados
+    @ (83,000 mm,34,000 mm): Pad 2 en F.Cu, Sin cobre de R213
+    @ (80,870 mm,107,730 mm): Pad 74 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,48,540 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (69,540 mm,46,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de J302
+ErrType(2): Elementos no conectados
+    @ (80,870 mm,61,764 mm): Pad 60 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+    @ (80,870 mm,64,799 mm): Pad 42 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (146,975 mm,72,000 mm): Pad 1 en F.Cu, Sin cobre de C301
+    @ (148,200 mm,75,720 mm): Pad 3 en F.Cu, Sin cobre de Q301
+ErrType(2): Elementos no conectados
+    @ (146,975 mm,72,000 mm): Pad 1 en F.Cu, Sin cobre de C301
+    @ (142,000 mm,72,000 mm): Pad 1 en F.Cu, Sin cobre de TP201
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,48,540 mm): Pad 4 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (80,870 mm,61,764 mm): Pad 60 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (69,540 mm,46,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de J302
+    @ (90,160 mm,27,000 mm): Pad 5 en F.Cu, B.Cu, Interno, Sin cobre de J301
+ErrType(2): Elementos no conectados
+    @ (148,200 mm,75,720 mm): Pad 3 en F.Cu, Sin cobre de Q301
+    @ (129,130 mm,120,430 mm): Pad 5 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (142,000 mm,72,000 mm): Pad 1 en F.Cu, Sin cobre de TP201
+    @ (80,870 mm,64,799 mm): Pad 42 en F.Cu, B.Cu, Interno, Sin cobre de XA301
+ErrType(2): Elementos no conectados
+    @ (151,500 mm,51,960 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP307
+    @ (151,500 mm,47,525 mm): Pad 1 en F.Cu, Sin cobre de R211
+ErrType(2): Elementos no conectados
+    @ (156,500 mm,47,525 mm): Pad 1 en F.Cu, Sin cobre de R210
+    @ (156,500 mm,51,960 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP306
+ErrType(2): Elementos no conectados
+    @ (144,000 mm,46,960 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP308
+    @ (144,000 mm,43,050 mm): Pad 1 en F.Cu, Sin cobre de R212
+ErrType(2): Elementos no conectados
+    @ (130,170 mm,32,850 mm): Pad 1 en F.Cu, Sin cobre de D301
+    @ (125,000 mm,36,475 mm): Pad 1 en F.Cu, Sin cobre de R305
+ErrType(2): Elementos no conectados
+    @ (127,080 mm,27,000 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de J304
+    @ (130,170 mm,32,850 mm): Pad 1 en F.Cu, Sin cobre de D301
+ErrType(2): Elementos no conectados
+    @ (125,000 mm,36,475 mm): Pad 1 en F.Cu, Sin cobre de R305
+    @ (116,000 mm,32,540 mm): Pad 2 en F.Cu, B.Cu, Interno, Sin cobre de JP305
+
+** End of Report **
