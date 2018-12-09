@@ -259,7 +259,7 @@ F 1 "12V" H 4150 950 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4250 1050 50  0001 C CNN
 F 3 "~" H 4250 1050 50  0001 C CNN
 	1    4250 1050
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	3150 1250 3150 1400

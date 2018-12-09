@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 3 4
 Title "WEMB02_j TPFinal R.Oliva / CESE2018"
 Date "2018-12-04"
-Rev "4-12-2018"
+Rev "7-12-2018"
 Comp "UNPA+L&RIng para WindEmpowerment (v1.1 J.Alinei 2016)"
 Comment1 "WEMB02_j Project"
 Comment2 "Autor: R.Oliva"
@@ -1195,7 +1195,7 @@ Wire Notes Line
 	3150 3200 6850 3200
 Wire Notes Line
 	6850 3200 6850 7500
-Text Notes 5200 2850 0    79   ~ 16
+Text Notes 5200 2800 0    79   ~ 16
 MODULO FEEDER\nPRINCIPAL  +15V\n
 Text Notes 8350 2850 0    79   ~ 16
 SALIDAS FEEDER\nPRINCIPAL Y\nEXPANSION\n

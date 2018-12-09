@@ -1,0 +1,578 @@
+Información: Comprobando la huella del símbolo de la red "Q302:/5BBA1300/5C0E3E71:User2:BC817-40".
+
+Información: Comprobando la huella del símbolo de la red "JP402:/5BFBFF79/5C079DC0:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP403:/5BFBFF79/5C079DC7:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "MH101:/5BE412CE:MountingHole:MountingHole_4mm".
+
+Información: Comprobando la huella del símbolo de la red "MH102:/5BE4135A:MountingHole:MountingHole_4mm".
+
+Información: Comprobando la huella del símbolo de la red "MH103:/5BE41388:MountingHole:MountingHole_4mm".
+
+Información: Comprobando la huella del símbolo de la red "MH104:/5BE413B0:MountingHole:MountingHole_4mm".
+
+Información: Comprobando la huella del símbolo de la red "Q201:/5BBA133B/5BBFECC7:Package_TO_SOT_SMD:TO-252-3_TabPin4".
+
+Información: Comprobando la huella del símbolo de la red "Q301:/5BBA1300/5C14762E:User2:BC817-40".
+
+Información: Comprobando la huella del símbolo de la red "JP401:/5BFBFF79/5C079DB9:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "Q401:/5BFBFF79/5C079DE2:User2:SOT-23-3".
+
+Información: Comprobando la huella del símbolo de la red "R201:/5BBA133B/5BC00178:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R202:/5BBA133B/5BE1D4AF:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R203:/5BBA133B/5BC240F2:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R204:/5BBA133B/5BDC9A9B:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R205:/5BBA133B/5BDBFFA6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R206:/5BBA133B/5BC50C12:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R207:/5BBA133B/5BC50AE3:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "JP202:/5BBA133B/5BC060B2:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "FR401:/5BFBFF79/5C079DAA:Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm".
+
+Información: Comprobando la huella del símbolo de la red "J201:/5BBA133B/5BBFD055:Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J202:/5BBA133B/5BCA353F:Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J203:/5BBA133B/5BBBB190:TerminalBlock:TerminalBlock_bornier-3_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "J301:/5BBA1300/5C14EDB3:TerminalBlock_RND:TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal".
+
+Información: Comprobando la huella del símbolo de la red "JF301:/5BBA1300/5BBBBC1C:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "JF302:/5BBA1300/5BBBBCE5:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "JP201:/5BBA133B/5BC072D9:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "R208:/5BBA133B/5BC820E6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "JP203:/5BBA133B/5BC0730B:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP204:/5BBA133B/5BC0733F:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP205:/5BBA133B/5BC8886D:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP301:/5BBA1300/5BE67F46:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP302:/5BBA1300/5BC4F74C:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP303:/5BBA1300/5BC76930:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP304:/5BBA1300/5BE81053:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "JP305:/5BBA1300/5BE70784:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "TP405:/5BFBFF79/5C0D7668:TestPoint:TestPoint_Pad_D2.0mm".
+
+Información: Comprobando la huella del símbolo de la red "RV403:/5BFBFF79/5C077A26:User2:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "RV404:/5BFBFF79/5C0AD0DE:User2:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "TP201:/5BBA133B/5BE7A42A:TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm".
+
+Información: Comprobando la huella del símbolo de la red "TP202:/5BBA133B/5BE7B67B:TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm".
+
+Información: Comprobando la huella del símbolo de la red "TP401:/5BFBFF79/5C077AB5:TestPoint:TestPoint_Pad_D2.0mm".
+
+Información: Comprobando la huella del símbolo de la red "TP402:/5BFBFF79/5C0AD104:TestPoint:TestPoint_Pad_D2.0mm".
+
+Información: Comprobando la huella del símbolo de la red "TP403:/5BFBFF79/5C077ABF:TestPoint:TestPoint_Pad_D2.0mm".
+
+Información: Comprobando la huella del símbolo de la red "TP404:/5BFBFF79/5C0AD10A:TestPoint:TestPoint_Pad_D2.0mm".
+
+Información: Comprobando la huella del símbolo de la red "RV402:/5BFBFF79/5C0AD0E4:User2:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "TP_GND301:/5BBA1300/5BEBB999:TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm".
+
+Información: Comprobando la huella del símbolo de la red "U201:/5BBA133B/5BBBAF8F:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+
+Información: Comprobando la huella del símbolo de la red "U301:/5BBA1300/5BBBBB11:User2:POWER_SDM1b".
+
+Información: Comprobando la huella del símbolo de la red "U302:/5BBA1300/5BBA94CC:User2:Global_feeder".
+
+Información: Comprobando la huella del símbolo de la red "U303:/5BBA1300/5C12D283:Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Información: Comprobando la huella del símbolo de la red "U304:/5BBA1300/5BBEBB80:Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Información: Comprobando la huella del símbolo de la red "U401:/5BFBFF79/5C077A1F:User2:ICL7665ACSA&plus_".
+
+Información: Comprobando la huella del símbolo de la red "XA201:/5BBA133B/5BBA1F40:User:arduino_mega_header".
+
+Información: Comprobando la huella del símbolo de la red "R402:/5BFBFF79/5C0AD0F4:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R301:/5BBA1300/5BCE5B1B:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R302:/5BBA1300/5BD0EF21:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R303:/5BBA1300/5BD00FBF:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R304:/5BBA1300/5BDDDF98:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R305:/5BBA1300/5C1A8BB4:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R306:/5BBA1300/5C1ADE14:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R307:/5BBA1300/5C110F09:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R401:/5BFBFF79/5C077A45:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "BAT(-)301:/5BBA1300/5BBBB39E:Connector:Banana_Jack_1Pin".
+
+Información: Comprobando la huella del símbolo de la red "R403:/5BFBFF79/5C079DE9:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R404:/5BFBFF79/5C079DF7:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R405:/5BFBFF79/5C079DF0:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R406:/5BFBFF79/5C077AA9:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R407:/5BFBFF79/5C077AEA:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "RV301:/5BBA1300/5BCC5F6A:User2:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "RV401:/5BFBFF79/5C077A2D:User2:PV36W103C01B00".
+
+Información: Comprobando la huella del símbolo de la red "D303:/5BBA1300/5BD00FB9:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C202:/5BBA133B/5BE80A5A:Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C203:/5BBA133B/5BC48827:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "FR201:/5BBA133B/5BC03DB4:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Comprobando la huella del símbolo de la red "C301:/5BBA1300/5C12D28A:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "F103:/5BE6EFCC:Fiducial:Fiducial_1mm_Dia_2mm_Outer".
+
+Información: Comprobando la huella del símbolo de la red "C302:/5BBA1300/5BBFC964:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C303:/5BBA1300/5C12D291:Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C304:/5BBA1300/5BC17CFA:Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "F101:/5BE442B8:Fiducial:Fiducial_1mm_Dia_2mm_Outer".
+
+Información: Comprobando la huella del símbolo de la red "C305:/5BBA1300/5BBEBED8:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "F102:/5BE44331:Fiducial:Fiducial_1mm_Dia_2mm_Outer".
+
+Información: Comprobando la huella del símbolo de la red "D302:/5BBA1300/5BD0EF1A:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "D301:/5BBA1300/5BCE57D6:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C306:/5BBA1300/5BBEC381:Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C401:/5BFBFF79/5C077A95:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C402:/5BFBFF79/5C079E76:User2:EEE-1EA100WR".
+
+Información: Comprobando la huella del símbolo de la red "CR301:/5BBA1300/5BBBAA3E:User2:SMAJ70A".
+
+Información: Comprobando la huella del símbolo de la red "D201:/5BBA133B/5BC72B31:Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering".
+
+Información: Comprobando la huella del símbolo de la red "CR401:/5BFBFF79/5C079E0B:User2:SMAJ70A".
+
+Información: Comprobando la huella del símbolo de la red "CR302:/5BBA1300/5BD26E4F:User2:SMAJ70A".
+
+Información: Comprobando la huella del símbolo de la red "CR303:/5BBA1300/5BC017F6:User2:SMAJ70A".
+
+Información: Comprobando la huella del símbolo de la red "BAT(+)301:/5BBA1300/5BBBB687:Connector:Banana_Jack_1Pin".
+
+Información: Comprobando la huella del símbolo de la red "FR301:/5BBA1300/5BBA98B9:Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm".
+
+Información: Comprobando la huella del símbolo de la red "FR302:/5BBA1300/5C14EDC4:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Comprobando la huella del símbolo de la red "C201:/5BBA133B/5BBFCE2E:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R303:/5BBA1300/5BD00FBF" el nombre de la red del pad "1" de "" a "Net-(JP305-Pad2)".
+
+Cambiando de la huella "C304:/5BBA1300/5BC17CFA" el nombre de la red del pad "1" de "" a "+15V".
+
+Cambiando de la huella "U303:/5BBA1300/5C12D283" el nombre de la red del pad "3" de "" a "+3V3".
+
+Cambiando de la huella "R301:/5BBA1300/5BCE5B1B" el nombre de la red del pad "1" de "" a "Net-(JP301-Pad2)".
+
+Cambiando de la huella "C305:/5BBA1300/5BBEBED8" el nombre de la red del pad "1" de "" a "+15V".
+
+Añadiendo del nuevo símbolo "R302:/5BBA1300/5BD0EF21" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "U303:/5BBA1300/5C12D283" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "R302:/5BBA1300/5BD0EF21" el nombre de la red del pad "2" de "" a "Net-(D302-Pad2)".
+
+Cambiando de la huella "R302:/5BBA1300/5BD0EF21" el nombre de la red del pad "1" de "" a "Net-(JP304-Pad2)".
+
+Cambiando de la huella "C305:/5BBA1300/5BBEBED8" el nombre de la red del pad "2" de "" a "Earth".
+
+Añadiendo del nuevo símbolo "R303:/5BBA1300/5BD00FBF" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R305:/5BBA1300/5C1A8BB4" el nombre de la red del pad "2" de "" a "Net-(Q301-Pad1)".
+
+Cambiando de la huella "R303:/5BBA1300/5BD00FBF" el nombre de la red del pad "2" de "" a "Net-(D303-Pad2)".
+
+Cambiando de la huella "U303:/5BBA1300/5C12D283" el nombre de la red del pad "1" de "" a "+5VP".
+
+Añadiendo del nuevo símbolo "C305:/5BBA1300/5BBEBED8" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R304:/5BBA1300/5BDDDF98" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R304:/5BBA1300/5BDDDF98" el nombre de la red del pad "1" de "" a "/Power/-FSHDN".
+
+Cambiando de la huella "R304:/5BBA1300/5BDDDF98" el nombre de la red del pad "2" de "" a "/Power/+B_FEED".
+
+Añadiendo del nuevo símbolo "U303:/5BBA1300/5C12D283" la huella "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Añadiendo del nuevo símbolo "R305:/5BBA1300/5C1A8BB4" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R305:/5BBA1300/5C1A8BB4" el nombre de la red del pad "1" de "" a "/LowV_Detect/-FEED_SHDN".
+
+Cambiando de la huella "R306:/5BBA1300/5C1ADE14" el nombre de la red del pad "2" de "" a "Net-(Q302-Pad1)".
+
+Cambiando de la huella "U304:/5BBA1300/5BBEBB80" el nombre de la red del pad "3" de "" a "+5F".
+
+Cambiando de la huella "R204:/5BBA133B/5BDC9A9B" el nombre de la red del pad "1" de "" a "Net-(C203-Pad1)".
+
+Cambiando de la huella "R204:/5BBA133B/5BDC9A9B" el nombre de la red del pad "2" de "" a "Net-(JP201-Pad2)".
+
+Añadiendo del nuevo símbolo "R205:/5BBA133B/5BDBFFA6" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R205:/5BBA133B/5BDBFFA6" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "R205:/5BBA133B/5BDBFFA6" el nombre de la red del pad "1" de "" a "Net-(JP202-Pad2)".
+
+Cambiando de la huella "U304:/5BBA1300/5BBEBB80" el nombre de la red del pad "1" de "" a "+15V".
+
+Cambiando de la huella "U304:/5BBA1300/5BBEBB80" el nombre de la red del pad "2" de "" a "Earth".
+
+Añadiendo del nuevo símbolo "R206:/5BBA133B/5BC50C12" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R206:/5BBA133B/5BC50C12" el nombre de la red del pad "2" de "" a "Net-(R206-Pad2)".
+
+Cambiando de la huella "R206:/5BBA133B/5BC50C12" el nombre de la red del pad "1" de "" a "/DataComm/B_OUT".
+
+Cambiando de la huella "R301:/5BBA1300/5BCE5B1B" el nombre de la red del pad "2" de "" a "Net-(D301-Pad2)".
+
+Añadiendo del nuevo símbolo "R207:/5BBA133B/5BC50AE3" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R207:/5BBA133B/5BC50AE3" el nombre de la red del pad "1" de "" a "Net-(D201-Pad1)".
+
+Cambiando de la huella "R207:/5BBA133B/5BC50AE3" el nombre de la red del pad "2" de "" a "Net-(R207-Pad2)".
+
+Añadiendo del nuevo símbolo "U304:/5BBA1300/5BBEBB80" la huella "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT".
+
+Añadiendo del nuevo símbolo "R208:/5BBA133B/5BC820E6" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R208:/5BBA133B/5BC820E6" el nombre de la red del pad "1" de "" a "Net-(JP205-Pad1)".
+
+Cambiando de la huella "R208:/5BBA133B/5BC820E6" el nombre de la red del pad "2" de "" a "/DataComm/B_OUT".
+
+Añadiendo del nuevo símbolo "C201:/5BBA133B/5BBFCE2E" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "R301:/5BBA1300/5BCE5B1B" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "TP_GND301:/5BBA1300/5BEBB999" el nombre de la red del pad "1" de "" a "Earth".
+
+Cambiando de la huella "U302:/5BBA1300/5BBA94CC" el nombre de la red del pad "2" de "" a "Earth".
+
+Añadiendo del nuevo símbolo "TP202:/5BBA133B/5BE7B67B" la huella "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm".
+
+Cambiando de la huella "U302:/5BBA1300/5BBA94CC" el nombre de la red del pad "1" de "" a "/Power/+B_FEED".
+
+Cambiando de la huella "TP202:/5BBA133B/5BE7B67B" el nombre de la red del pad "1" de "" a "GNDS".
+
+Cambiando de la huella "C203:/5BBA133B/5BC48827" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "C203:/5BBA133B/5BC48827" el nombre de la red del pad "1" de "" a "Net-(C203-Pad1)".
+
+Añadiendo del nuevo símbolo "C203:/5BBA133B/5BC48827" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "U302:/5BBA1300/5BBA94CC" la huella "User2:Global_feeder".
+
+Cambiando de la huella "C202:/5BBA133B/5BE80A5A" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "C202:/5BBA133B/5BE80A5A" el nombre de la red del pad "1" de "" a "+5VL".
+
+Añadiendo del nuevo símbolo "TP_GND301:/5BBA1300/5BEBB999" la huella "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm".
+
+Cambiando de la huella "TP201:/5BBA133B/5BE7A42A" el nombre de la red del pad "1" de "" a "+5VL".
+
+Añadiendo del nuevo símbolo "C202:/5BBA133B/5BE80A5A" la huella "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Añadiendo del nuevo símbolo "U201:/5BBA133B/5BBBAF8F" la huella "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+
+Cambiando de la huella "U201:/5BBA133B/5BBBAF8F" el nombre de la red del pad "1" de "" a "Net-(JP201-Pad2)".
+
+Cambiando de la huella "U201:/5BBA133B/5BBBAF8F" el nombre de la red del pad "2" de "" a "Net-(JP203-Pad2)".
+
+Cambiando de la huella "U201:/5BBA133B/5BBBAF8F" el nombre de la red del pad "3" de "" a "Net-(JP203-Pad2)".
+
+Cambiando de la huella "U201:/5BBA133B/5BBBAF8F" el nombre de la red del pad "4" de "" a "Net-(JP202-Pad2)".
+
+Cambiando de la huella "U201:/5BBA133B/5BBBAF8F" el nombre de la red del pad "5" de "" a "GNDS".
+
+Cambiando de la huella "U201:/5BBA133B/5BBBAF8F" el nombre de la red del pad "6" de "" a "Net-(R207-Pad2)".
+
+Cambiando de la huella "U201:/5BBA133B/5BBBAF8F" el nombre de la red del pad "7" de "" a "Net-(R206-Pad2)".
+
+Cambiando de la huella "U201:/5BBA133B/5BBBAF8F" el nombre de la red del pad "8" de "" a "Net-(C203-Pad1)".
+
+Cambiando de la huella "R202:/5BBA133B/5BE1D4AF" el nombre de la red del pad "1" de "" a "/DataComm/RESET_4D".
+
+Cambiando de la huella "C201:/5BBA133B/5BBFCE2E" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "R306:/5BBA1300/5C1ADE14" el nombre de la red del pad "1" de "" a "/Power/SDM1".
+
+Cambiando de la huella "C304:/5BBA1300/5BC17CFA" el nombre de la red del pad "2" de "" a "Earth".
+
+Añadiendo del nuevo símbolo "R307:/5BBA1300/5C110F09" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R307:/5BBA1300/5C110F09" el nombre de la red del pad "1" de "" a "/Power/SDM_ON".
+
+Cambiando de la huella "R307:/5BBA1300/5C110F09" el nombre de la red del pad "2" de "" a "+15V".
+
+Añadiendo del nuevo símbolo "C304:/5BBA1300/5BC17CFA" la huella "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Cambiando de la huella "C201:/5BBA133B/5BBFCE2E" el nombre de la red del pad "1" de "" a "+5VL".
+
+Cambiando de la huella "U302:/5BBA1300/5BBA94CC" el nombre de la red del pad "5" de "" a "Earth".
+
+Cambiando de la huella "C303:/5BBA1300/5C12D291" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "C303:/5BBA1300/5C12D291" el nombre de la red del pad "1" de "" a "+3V3".
+
+Añadiendo del nuevo símbolo "R306:/5BBA1300/5C1ADE14" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "C303:/5BBA1300/5C12D291" la huella "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder".
+
+Cambiando de la huella "U302:/5BBA1300/5BBA94CC" el nombre de la red del pad "4" de "" a "+15V".
+
+Cambiando de la huella "C302:/5BBA1300/5BBFC964" el nombre de la red del pad "1" de "" a "GNDS".
+
+Cambiando de la huella "C302:/5BBA1300/5BBFC964" el nombre de la red del pad "2" de "" a "+5VP".
+
+Añadiendo del nuevo símbolo "C302:/5BBA1300/5BBFC964" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "U302:/5BBA1300/5BBA94CC" el nombre de la red del pad "3" de "" a "/Power/-FSHDN".
+
+Cambiando de la huella "C301:/5BBA1300/5C12D28A" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "C301:/5BBA1300/5C12D28A" el nombre de la red del pad "1" de "" a "+5VP".
+
+Añadiendo del nuevo símbolo "C301:/5BBA1300/5C12D28A" la huella "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "TP201:/5BBA133B/5BE7A42A" la huella "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm".
+
+Cambiando de la huella "JP201:/5BBA133B/5BC072D9" el nombre de la red del pad "1" de "" a "/DataComm/RX2_ARD".
+
+Cambiando de la huella "FR201:/5BBA133B/5BC03DB4" el nombre de la red del pad "2" de "" a "Net-(FR201-Pad2)".
+
+Añadiendo del nuevo símbolo "JF302:/5BBA1300/5BBBBCE5" la huella "TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Cambiando de la huella "JF302:/5BBA1300/5BBBBCE5" el nombre de la red del pad "2" de "" a "+5F".
+
+Cambiando de la huella "JF302:/5BBA1300/5BBBBCE5" el nombre de la red del pad "3" de "" a "Earth".
+
+Cambiando de la huella "JF302:/5BBA1300/5BBBBCE5" el nombre de la red del pad "1" de "" a "+15V".
+
+Cambiando de la huella "JF302:/5BBA1300/5BBBBCE5" el nombre de la red del pad "4" de "" a "+15V".
+
+Cambiando de la huella "JF302:/5BBA1300/5BBBBCE5" el nombre de la red del pad "5" de "" a "+5F".
+
+Cambiando de la huella "JF302:/5BBA1300/5BBBBCE5" el nombre de la red del pad "6" de "" a "Earth".
+
+Añadiendo del nuevo símbolo "FR201:/5BBA133B/5BC03DB4" la huella "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Añadiendo del nuevo símbolo "JP201:/5BBA133B/5BC072D9" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Cambiando de la huella "JP201:/5BBA133B/5BC072D9" el nombre de la red del pad "3" de "" a "/DataComm/RX_TO_RBPI".
+
+Cambiando de la huella "JP201:/5BBA133B/5BC072D9" el nombre de la red del pad "2" de "" a "Net-(JP201-Pad2)".
+
+Cambiando de la huella "JF301:/5BBA1300/5BBBBC1C" el nombre de la red del pad "2" de "" a "+5F".
+
+Añadiendo del nuevo símbolo "JP202:/5BBA133B/5BC060B2" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Cambiando de la huella "JP202:/5BBA133B/5BC060B2" el nombre de la red del pad "1" de "" a "/DataComm/TX2_ARD".
+
+Cambiando de la huella "JP202:/5BBA133B/5BC060B2" el nombre de la red del pad "2" de "" a "Net-(JP202-Pad2)".
+
+Cambiando de la huella "JP202:/5BBA133B/5BC060B2" el nombre de la red del pad "3" de "" a "/DataComm/TX_FROM_RBPI(TX0_14)".
+
+Añadiendo del nuevo símbolo "JP203:/5BBA133B/5BC0730B" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Cambiando de la huella "JP203:/5BBA133B/5BC0730B" el nombre de la red del pad "3" de "" a "/DataComm/D485_RBPI".
+
+Cambiando de la huella "JP203:/5BBA133B/5BC0730B" el nombre de la red del pad "2" de "" a "Net-(JP203-Pad2)".
+
+Cambiando de la huella "JP203:/5BBA133B/5BC0730B" el nombre de la red del pad "1" de "" a "/DataComm/DIR_485_ARD".
+
+Añadiendo del nuevo símbolo "F102:/5BE44331" la huella "Fiducial:Fiducial_1mm_Dia_2mm_Outer".
+
+Añadiendo del nuevo símbolo "JP204:/5BBA133B/5BC0733F" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Cambiando de la huella "JP204:/5BBA133B/5BC0733F" el nombre de la red del pad "1" de "" a "+5VP".
+
+Cambiando de la huella "JP204:/5BBA133B/5BC0733F" el nombre de la red del pad "2" de "" a "Net-(C203-Pad1)".
+
+Cambiando de la huella "J203:/5BBA133B/5BBBB190" el nombre de la red del pad "1" de "" a "Net-(D201-Pad1)".
+
+Cambiando de la huella "FR302:/5BBA1300/5C14EDC4" el nombre de la red del pad "1" de "" a "Net-(FR302-Pad1)".
+
+Cambiando de la huella "FR302:/5BBA1300/5C14EDC4" el nombre de la red del pad "2" de "" a "+5VP".
+
+Cambiando de la huella "FR301:/5BBA1300/5BBA98B9" el nombre de la red del pad "2" de "" a "+BATT".
+
+Añadiendo del nuevo símbolo "J201:/5BBA133B/5BBFD055" la huella "Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical".
+
+Cambiando de la huella "J201:/5BBA133B/5BBFD055" el nombre de la red del pad "1" de "" a "GNDS".
+
+Cambiando de la huella "J201:/5BBA133B/5BBFD055" el nombre de la red del pad "2" de "" a "/DataComm/RESET_4D".
+
+Cambiando de la huella "J201:/5BBA133B/5BBFD055" el nombre de la red del pad "3" de "" a "/DataComm/TX1_DISP".
+
+Cambiando de la huella "J201:/5BBA133B/5BBFD055" el nombre de la red del pad "4" de "" a "/DataComm/RX1_DISP".
+
+Cambiando de la huella "J201:/5BBA133B/5BBFD055" el nombre de la red del pad "5" de "" a "+5VL".
+
+Cambiando de la huella "FR301:/5BBA1300/5BBA98B9" el nombre de la red del pad "1" de "" a "/Power/+B_FEED".
+
+Añadiendo del nuevo símbolo "FR301:/5BBA1300/5BBA98B9" la huella "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm".
+
+Añadiendo del nuevo símbolo "J203:/5BBA133B/5BBBB190" la huella "TerminalBlock:TerminalBlock_bornier-3_P5.08mm".
+
+Cambiando de la huella "JP204:/5BBA133B/5BC0733F" el nombre de la red del pad "3" de "" a "+3V3".
+
+Cambiando de la huella "J203:/5BBA133B/5BBBB190" el nombre de la red del pad "2" de "" a "/DataComm/B_OUT".
+
+Cambiando de la huella "J203:/5BBA133B/5BBBB190" el nombre de la red del pad "3" de "" a "GNDS".
+
+Añadiendo del nuevo símbolo "J301:/5BBA1300/5C14EDB3" la huella "TerminalBlock_RND:TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal".
+
+Cambiando de la huella "J301:/5BBA1300/5C14EDB3" el nombre de la red del pad "1" de "" a "Net-(FR302-Pad1)".
+
+Cambiando de la huella "J301:/5BBA1300/5C14EDB3" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "FR201:/5BBA133B/5BC03DB4" el nombre de la red del pad "1" de "" a "+5VP".
+
+Añadiendo del nuevo símbolo "JF301:/5BBA1300/5BBBBC1C" la huella "TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Cambiando de la huella "JF301:/5BBA1300/5BBBBC1C" el nombre de la red del pad "6" de "" a "Earth".
+
+Cambiando de la huella "JF301:/5BBA1300/5BBBBC1C" el nombre de la red del pad "5" de "" a "+5F".
+
+Cambiando de la huella "JF301:/5BBA1300/5BBBBC1C" el nombre de la red del pad "4" de "" a "+15V".
+
+Cambiando de la huella "JF301:/5BBA1300/5BBBBC1C" el nombre de la red del pad "1" de "" a "+15V".
+
+Cambiando de la huella "JF301:/5BBA1300/5BBBBC1C" el nombre de la red del pad "3" de "" a "Earth".
+
+Cambiando de la huella "Q301:/5BBA1300/5C14762E" el nombre de la red del pad "1" de "" a "Net-(Q301-Pad1)".
+
+Añadiendo del nuevo símbolo "D302:/5BBA1300/5BD0EF1A" la huella "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "D301:/5BBA1300/5BCE57D6" el nombre de la red del pad "2" de "" a "Net-(D301-Pad2)".
+
+Cambiando de la huella "D301:/5BBA1300/5BCE57D6" el nombre de la red del pad "1" de "" a "Earth".
+
+Añadiendo del nuevo símbolo "D301:/5BBA1300/5BCE57D6" la huella "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "Q201:/5BBA133B/5BBFECC7" la huella "Package_TO_SOT_SMD:TO-252-3_TabPin4".
+
+Cambiando de la huella "Q201:/5BBA133B/5BBFECC7" el nombre de la red del pad "1" de "" a "Net-(Q201-Pad1)".
+
+Cambiando de la huella "Q201:/5BBA133B/5BBFECC7" el nombre de la red del pad "2" de "" a "Net-(FR201-Pad2)".
+
+Cambiando de la huella "Q201:/5BBA133B/5BBFECC7" el nombre de la red del pad "3" de "" a "+5VL".
+
+Cambiando de la huella "D201:/5BBA133B/5BC72B31" el nombre de la red del pad "3" de "" a "GNDS".
+
+Añadiendo del nuevo símbolo "Q301:/5BBA1300/5C14762E" la huella "User2:BC817-40".
+
+Cambiando de la huella "Q301:/5BBA1300/5C14762E" el nombre de la red del pad "3" de "" a "Net-(JP302-Pad1)".
+
+Cambiando de la huella "Q301:/5BBA1300/5C14762E" el nombre de la red del pad "2" de "" a "Earth".
+
+Cambiando de la huella "D302:/5BBA1300/5BD0EF1A" el nombre de la red del pad "1" de "" a "Earth".
+
+Cambiando de la huella "D201:/5BBA133B/5BC72B31" el nombre de la red del pad "2" de "" a "/DataComm/B_OUT".
+
+Cambiando de la huella "D201:/5BBA133B/5BC72B31" el nombre de la red del pad "1" de "" a "Net-(D201-Pad1)".
+
+Añadiendo del nuevo símbolo "D201:/5BBA133B/5BC72B31" la huella "Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering".
+
+Añadiendo del nuevo símbolo "R201:/5BBA133B/5BC00178" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R201:/5BBA133B/5BC00178" el nombre de la red del pad "2" de "" a "GNDS".
+
+Cambiando de la huella "R201:/5BBA133B/5BC00178" el nombre de la red del pad "1" de "" a "Net-(Q201-Pad1)".
+
+Añadiendo del nuevo símbolo "R202:/5BBA133B/5BE1D4AF" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R202:/5BBA133B/5BE1D4AF" el nombre de la red del pad "2" de "" a "Net-(R202-Pad2)".
+
+Añadiendo del nuevo símbolo "FR302:/5BBA1300/5C14EDC4" la huella "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Añadiendo del nuevo símbolo "R203:/5BBA133B/5BC240F2" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "R203:/5BBA133B/5BC240F2" el nombre de la red del pad "1" de "" a "Net-(JP203-Pad2)".
+
+Cambiando de la huella "R203:/5BBA133B/5BC240F2" el nombre de la red del pad "2" de "" a "GNDS".
+
+Añadiendo del nuevo símbolo "JP303:/5BBA1300/5BC76930" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Añadiendo del nuevo símbolo "JP205:/5BBA133B/5BC8886D" la huella "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Cambiando de la huella "JP205:/5BBA133B/5BC8886D" el nombre de la red del pad "1" de "" a "Net-(JP205-Pad1)".
+
+Cambiando de la huella "JP205:/5BBA133B/5BC8886D" el nombre de la red del pad "2" de "" a "Net-(D201-Pad1)".
+
+Añadiendo del nuevo símbolo "JP301:/5BBA1300/5BE67F46" la huella "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Cambiando de la huella "JP301:/5BBA1300/5BE67F46" el nombre de la red del pad "2" de "" a "Net-(JP301-Pad2)".
+
+Cambiando de la huella "JP301:/5BBA1300/5BE67F46" el nombre de la red del pad "1" de "" a "+15V".
+
+Cambiando de la huella "D303:/5BBA1300/5BD00FB9" el nombre de la red del pad "1" de "" a "GNDS".
+
+Añadiendo del nuevo símbolo "JP302:/5BBA1300/5BC4F74C" la huella "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical".
+
+Cambiando de la huella "JP302:/5BBA1300/5BC4F74C" el nombre de la red del pad "1" de "" a "Net-(JP302-Pad1)".
+
+Cambiando de la huella "JP302:/5BBA1300/5BC4F74C" el nombre de la red del pad "2" de "" a "/Power/-FSHDN".
+
+Cambiando de la huella "JP302:/5BBA1300/5BC4F74C" el nombre de la red del pad "3" de "" a "Earth".
+
+Cambiando de la huella "D303:/5BBA1300/5BD00FB9" el nombre de la red del pad "2" de "" a "Net-(D303-Pad2)".
+
+Añadiendo del nuevo símbolo "R204:/5BBA133B/5BDC9A9B" la huella "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Cambiando de la huella "JP303:/5BBA1300/5BC76930" el nombre de la red del pad "3" de "" a "Earth".
+
+Cambiando de la huella "JP303:/5BBA1300/5BC76930" el nombre de la red del pad "2" de "" a "/Power/SDM_ON".
+
+Cambiando de la huella "JP303:/5BBA1300/5BC76930" el nombre de la red del pad "1" de "" a "Net-(JP303-Pad1)".
+
+Añadiendo del nuevo símbolo "D303:/5BBA1300/5BD00FB9" la huella "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+
+Añadiendo del nuevo símbolo "JP304:/5BBA1300/5BE81053" la huella "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Cambiando de la huella "JP304:/5BBA1300/5BE81053" el nombre de la red del pad "2" de "" a "Net-(JP304-Pad2)".
+
+Cambiando de la huella "JP304:/5BBA1300/5BE81053" el nombre de la red del pad "1" de "" a "+5F".
+
+Añadiendo del nuevo símbolo "JP305:/5BBA1300/5BE70784" la huella "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Cambiando de la huella "JP305:/5BBA1300/5BE70784" el nombre de la red del pad "1" de "" a "+5VP".
+
+Cambiando de la huella "JP305:/5BBA1300/5BE70784" el nombre de la red del pad "2" de "" a "Net-(JP305-Pad2)".
+
+Cambiando de la huella "D302:/5BBA1300/5BD0EF1A" el nombre de la red del pad "2" de "" a "Net-(D302-Pad2)".
+
